@@ -1,0 +1,5 @@
+- on top of project Jupyter adding new resources and facilities
+- possibility to attach storage eg. for your research data on S3
+- safe env to tryout code
+- can support heavy compute (contact team for compute intense workshops)
+- 

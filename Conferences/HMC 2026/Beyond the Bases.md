@@ -1,0 +1,54 @@
+How Metadata powers a national genome archive
+30.04.2026
+Oliver Stegle (DKFZ & GHGA)
+
+- trusted space: secure national omics data infrastructure
+- GHGA with 20 institutions, 6 storage hubs
+- 1980 EMBL in Heidelberg => European nucleotide archive
+- 1992 EMBL-EBI
+- 2000 first human genome
+- 2008 1000 genomes project
+- 2013 Genomics Englands 100k project
+- copied by Denmark in 2017
+- 2024 also copied by Germany
+- reference genome is an issue
+- AI for genomics: what happens if we replace one base?
+- phenotype prediction, gene disease detection
+- 2025 130 M genomes: driver = cancer and rare disease
+- GHGE, genome-DE -> Federated European Genome-phenome Archive
+- genetic sequences cannot be anonymised!
+- In genomics:L Research data = genome data, Metadata describes clinical sample info; but in clinical studies clinical sample data are the primary data
+- photo: scalable open source infrastructure
+- metadata enabler for data federation
+	- Stage 1:
+	  Data Controller, data holder -> data submission to GHGA with personal metadata, research data and sharable non-personal metadata
+	- make data findable relies on metadata; requests forwarded via GHGA (see photo)
+	- anonymisation can only be done on dataset level
+	- trios: father, mother, child for hereditary diseases
+	- archive has to deal with constantly changing data from re-analysis etc.
+		- data lifecycles: what if archive data is updated?
+		- model lifecycles
+	- => assigning PIDs
+	- new PID attached together with the original to deal with changes
+	- processing is changing all the time
+	- => make computational analysis reproducible
+	- GHGA 2.0 with Secure Processing Env.
+		- only result leaves the space
+		- descriptors for computational workflows
+		- controlled access
+		- data stays secure
+- Record linkage
+	- genomDE project (50PByte raw data)
+	- (photo) genomDE Data Platform
+	- how to link clinical data to genome data and even more, like image archives
+	- EBI BioSambles persistent sample accession for open access data
+	- but in GHGA even the linkage cannot be made public
+	- GHGA Podcast: "Der Code des Lebens"
+	- ELSI: Ethical, legal and social implications
+- all journals request the data to be accessible
+- Q Martin Golebijewski
+- Denmark has a opt-out model for consent to scientific use
+- in Europe a lot of data is opt-out but not for genome data (esp. Germany opposed)
+- diagnostic labs are godd sources for genome data
+- policies for data controllers have to be formalised in Germany, there have to be institutional committees deciding on access.
+- 

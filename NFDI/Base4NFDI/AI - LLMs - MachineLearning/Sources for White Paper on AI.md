@@ -1,0 +1,1 @@
+https://aigi.ox.ac.uk/publications/a-blueprint-for-multinational-advanced-ai-development/

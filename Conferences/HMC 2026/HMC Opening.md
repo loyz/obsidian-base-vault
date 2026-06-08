@@ -1,0 +1,23 @@
+
+- Sören Lorenz
+- HMC since ca. 8 years
+- make data FAIR, AI-ready
+- data resilience
+- 195 registrations from 6 countries
+- Klaus Maier-Hein and Marco Nolden (hosts)
+- Constanze Curdt (GEOMAR): HMC in  a nutshell
+	- connecting the Helmholtz research data ecsoystem FAIR
+	- Activities and Services
+		- State of FAIR
+		- Data Connectivity
+		- Community Implementation
+	- Project Call open untill 6.7.2026 only for Helmholtz Centers with possible external partners
+- Helmholtz AI: Mathieu Seyfried (Helmholtz Munich)
+- Helmholtz Imaging: Kris Dreher
+- HIFIS: ANdreas Klotz (Helmholtz Center Berlin)
+- Helmholtz Open Science: Marc Lange
+- Scientific Program
+	- keynotes
+		- Marta Teperek
+		- Jan Portisch
+		- Oliver Stegle

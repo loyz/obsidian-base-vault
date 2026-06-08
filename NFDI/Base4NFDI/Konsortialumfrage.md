@@ -1,0 +1,26 @@
+-  [https://drive.google.com/drive/folders/14E7-F_U6jO_UBOSaV4aRqnQk2JhP8zB0](https://drive.google.com/drive/folders/14E7-F_U6jO_UBOSaV4aRqnQk2JhP8zB0)
+- Umfrage anpassen
+- Links von Lukas (von Proposals und für Offline)
+- Offline Template aktualisieren und an Lukas zurückschicken (Pro Phase für die Anträge eingereicht werden) - gelb markiert
+	- Daten
+	- Links
+- E-Mail anpassen:
+	- Daten
+	- Links
+	- Services
+- Umfrage anpassen: (Jede Phase hat eigenes Template!)
+	- Google Umfragen
+	- Dokument kopieren
+	- Veröffentlichen: ab dann fuer andere sichtbar
+	- Abschnitt 3 Statement Aus Proposal rauskopieren
+	- Abschn. 4 - Ende bleiben
+	- Titel anpassen!
+	- Link kommt ins Offline-Template und in die Mail (Teilnehmer Link kopieren. Nicht aus Adresszeile! )
+	- Man muss nachschauen wer abgestimmt hat
+	- Es erstellt sich automatisch ein Excel Dokument
+	- Explizit auswählen "Mit Google Sheets verbinden."
+	- Erinnerungen erst nach 2 Wochen, dann wöchentlich. Läuft vier Wochen.
+	- https://docs.google.com/spreadsheets/d/11tL2t4DyU9-MTD-R5ynLdwGehNoVMEo5SCSUXu9AFZE/edit?gid=150290304#gid=150290304
+	- abstained: habe Bescheid gesagt, dass sie nicht wählen
+	- 
+

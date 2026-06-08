@@ -1,0 +1,77 @@
+- SAP Enterprise KnowledgeGraph
+- presenter: Jan Portisch
+- N X M problem
+- platform needed where lifecycle and data flows can be managed (eg verion problem) => graph and platform
+- Constructing Enterprise Knowledge Graphs
+- Sources, Semantic Data Layer with Modeling and life cycle management, => Channel (software endpoint)
+- staging, modeling manually, pipeline generation with AI, Data transformation, Graph geration, Post processing, validation, Release management, deployment
+- lot of stamping to track which version produced data/code
+	- a lot of time it's not the data that is faulty
+	- all code versions are kept to backtrack and debug
+	- = advanced lifecycle management
+- General opposition between Unification and Flexibility
+	- in practice you cant force everyone to use standards
+	- push for standards but also modelling local language but always map it to an upper ontology => SPARQL with local terms/dialect  can be written and also broad queries on upper layer
+	- automatic detection of instances of multiple taxonomies
+- Maintainance is extremely expensive. Whole staff working on it.
+- Leveraging Enterprise Knowledge Graphs
+	- all of a sudden the work in ontolgies and knowledge graphs is appreciated
+	- Common LLM Usage Patterns
+		- Question -> Retriever -> LLM -> RAG
+					  ||
+					  Knwoledge Base
+		- Why is RAG not working at scale?
+			- documents start to look relevant
+			- cannot aggregate data
+			- documents are chopped into small pieces; this destroys existing links
+			- REG finds information similar to the question but not similar to the answer
+	- Neuro-Symbilic AI instead
+		- Thinking fast and slow (Kahnemann)
+		- Symbolic Knowledge (SAP KG)
+		- Neural System (Multi step nueral system)
+			- multi hop reasoning
+			- searching the graph just like a human, writing it's own queries
+			- for search a simple index is sufficient
+- LLM Reasoning talking to itself and calling different tools
+	- run searches, identifying nodes
+	- exploring the regions next to the nodes
+	- retrieving results with SPARQL
+- knowledge scattered in different repos
+	- referencing each other implicitly => add explicit links
+	- custom terminologies => map to upper-level ontology
+	- no joint lifecycle => platform
+	- Domain specifity => targeted systems/algorithms
+- Conclusion
+	- 90% is Data and Semantics, 10% AI
+	- breakthroughs in last years are not due to AI
+- ISWC 2026 in Bari
+- reaching out to academia
+- Q&A:
+	- complex matching is a big topic (subclass, spec. relation)
+	- from URI in the graph you see where (which repo) the info comes from
+	- not changing the sources or the authoring; modelling together with departments. Problems arise when models are changed without notice
+	- how are images etc. integrated?
+		- eg. BPMNs 
+		- when meaningful media is detected it is annotated and a link to the file and it gets embedded into the answer
+		- Claude Code can generate BPMNs or Power Points
+	- Traceability System eg for audits
+		- end user not interested in details like github stamps
+	- if a source changes the graph has to be updated
+		- the graph is puzeled together from many pieces
+	- reasoner somewhere?
+		- yes. Trivial reasoning in the processing step.
+	- can it judge truthness?
+		- is not validated
+		- contradictions appear
+		- emphasis on provenance so user can decide
+	- scalability
+		- engineering effort
+		- how to handle one billion triples?
+		- 5-fold increase in last 5 month
+		- no scalability insights, sorry
+	- Gap in data integration for use of AI
+		- DRP system often lacks semantics/metadata
+		- often metadata is not coming from the systems
+		- AI needs to be persistence. 
+	- Measuring the impact of KG to company?
+		- value analysis: was extremely valuable and secured further funding.

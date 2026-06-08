@@ -1,0 +1,26 @@
+
+- Ordner mit Runde anlegen
+- Kopie der aktuellen Templates
+- TA3/Decision Memos
+- Kopieren und in neuen Ordner verschieben
+- eckige Klammern für Änderungen
+- pro Phase ein Dokument
+- grauen Text auf schwarz setzen
+- Versionen für TEC und KV
+- Umfrage läuft bis ...
+- Kästchen anpassen oben in Schaltfläche damit sie nicht durchgestrichen erscheinen, wenn abgehakt
+- TRL aktuell und als gesetztes Ziel, können bei mehreren Teilen 
+- TRL nur "am Ende der Phase"?
+- Text aus Antrag kurz zusammenfassen z.B. bei Interoperabilität
+- Normalerweise 2 Wochen Zeit (aktuell vor Mittwoch den 29.)
+- Prüfung Formalia (Seitenzahl) - Gantt Chart abziehen (wenn im Fließtext) Fußnoten können auch abgezogen werden. (Soviel Good Will wie noch argumentierbar)
+- Unterschriften prüfen: alle beantragenden Institutionen müssen signiert haben.
+- Aktuelle Zahlen für die Limitsd (Laufzeit, Summe) mit Website abgleichen.
+- PM müssen zusammengezählt werden und geprüft ob das den beantragten Summen entspricht.
+- Anträge können nach Deadline nicht mehr geändert werden. Aber Fehler können im Decision Memo markiert werden.
+- In welchem Sektionstreffen wurde berichtet, wer hat eingereicht. (Die Empfehlung des TEC für KV rauslöschen)
+- Anhang macht TA4
+- als PDF exportieren und in Unterordner TEC
+- SWOT Analyse: einzelnen Punkte aufführen
+- KV bekommt dann nochmal eine Version mit TEC Empfehlungen im Anhang
+- wenn geändert muss es also noch 2x angefasst werden.

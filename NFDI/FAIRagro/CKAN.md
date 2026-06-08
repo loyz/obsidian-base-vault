@@ -1,0 +1,1 @@
+Poster on #FAIRagro #FAIRagroSummit26 by _Steffen Franke, Yana Bodnar, Rainer Cramm, Christopher Rickelt, Wolgang Clauss_
