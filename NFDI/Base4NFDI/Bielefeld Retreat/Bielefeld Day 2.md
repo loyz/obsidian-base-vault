@@ -1,0 +1,92 @@
+11.06.2026
+
+- Interim Report Defence 
+	- DFG_Defense_July_Base4NFDI
+	- Policy Papers:
+		- Whitepaper (Advancing Essential Services to Complement EOSC)[https://zenodo.org/records/14732131]
+		- (Guidance to Interoperability)[https://zenodo.org/records/13946300]
+	- General Slide Deck (show the framework): https://zenodo.org/records/20037386
+	- Sandra: Base is more than Services. This should be visualised.
+	- list use cases 
+	- all achievements
+	- major challenges
+	- STF Political
+		- Blog post: CTA fitting person (Antje), BMFTR on linked in?, Science Blog, more science communication, 
+	- STF Portfolio
+		- Stefan Berenz has the mandate
+		- Sonja: EOSC Standard and reference implementation, we have mandate to build portfolio for Base Services
+	- STF User Engagement Framework
+	- STF Knowledge Tranfer: reuse of material
+		- material on Zenodo
+		- knoledge-transfer guides
+		- scattered: missing layer of conceptualisation
+		- close gap between quality and impact?
+		- => peer-reviewed layer (early 2027, submit Q1 2028): Review on the whole project -> scientific publication (Bernhard), find suitable package
+	- TGRec
+		- Funding alternatives
+			- OSKARS starting (for funding/exit strategy for services)
+			- LIS
+			- tool pool belongs to knowledge transfer
+		- Modular
+			- ITIL and FitSM - shall we create a frim mapping? relevant for Base (Sören: not really, but could be a model, look at definitions, use terms from FitSM (Andre))
+		- SRL Self Assesment
+			- modules can be turned to consultancy
+			- needs not to be restricted to basic services (Bernhard)
+- Base post 28
+	- should we be proactive on transition to Betriebsnetzwerk?
+	- networking effective for building Betriebsnetzwerk
+	- Compute and storage will be at the institutions
+	- is the Betriebsnetzwerk the datacenters only? 
+	- Bernhard:
+		- new statutes probably first attempt by mid '27
+		- transintion team to implement all features of future NFDI and basic services
+			- BLV will fund it with large sums
+			- will start operating late fall (gather staff)
+			- those will be the people we are pitching ideas to 
+			- should have these pitches ready by end of this year
+		- unknowns
+			- consortia may not play a role
+			- what will happen to Sections? Not mentioned in WR paper nor in BLV
+			- how to address cross cutting topics then?
+			- where will decisions be made? Betriebsnetzwerk, CTO?
+			- DFG 20% will hold Innovationsfund. Will new basic services be topic of this?
+		- somewhat knowns
+			- Base submits a new proposal 2.0 for 29-32 (for third round consortia)
+			- or Base integrated into the Association (Money for framework, staff and services would then come from Association)
+			- open scope to all services (beyond being basic)
+			- top-down basic service development
+			- prepare for both v scenarios
+			- Lars:
+				- new proposal
+				- H2 > H3 > H1
+	- Sonja:
+		- Base needs to be continued
+		- two options
+			- continue as a project for 5 more years, stepwise integration
+			- sudden integration
+		- keep experienced staff
+			- what about co-spokes?
+		- less on shaping side - more analysing
+			- should we get more involved in terms on integration into EOSC
+			- technical aspects of interoperability and security
+			- overall requirement and gap analysis
+		- divide between service teams and core team to be bridged?
+		- sustainability
+		- how to integrate in-kind contributions
+		- what is a NFDI service?There will be need to integrate also services from outside
+		- what other cross cutting topics to address? Sections, Portfolio, EOSC?
+		- Live open science and open source - build communities around services!
+		- Gen AI might help
+- Juliane:
+	- WR Recommendation
+	- NFDI should support AI research acting as enabler and catalyst
+	- reform complex governance structure
+	- New service definition form Biomed interest group (grouped services with community support)
+	- can this definition be integrated in the porfolio discussion?
+	- simplify consortia offerings to four buttons
+- a holistic vision for a service landscape that we want to promote
+	- AI readyness
+	- data security
+	- data protection
+	- integration aai
+	- and the strategically promote 

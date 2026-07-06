@@ -1,0 +1,31 @@
+12.06.2026
+
+- support = funding? yes, but no personell, but workshops, travel, external experts
+- models? process and templatee
+- requirement analysis, user study, persona workshop, business model workshop, ...
+- (timeline)[https://docs.google.com/presentation/d/1se3ISYz42xg_0ogmCLykyuwbl2UVLxMj/edit?slide=id.g3e732fd981e_0_59#slide=id.g3e732fd981e_0_59]:
+	- clarify eligible services :checked
+		- legal framework: KV needs to take a decision to grant small sums of money (Omnibus, Vorratsbeschluss)
+		- existing staff means: some documentation of available staff for the tasks to be allocated to the project
+	- Incentives
+		- no NFDI label yet
+		- visibility (in the community)
+		- money for workshops etc.
+		- expertise  (more details wanted)
+		- lower threshold when applying again
+		- requirements restricted to the deliverables of the support applied for
+		- (future phases)[https://docs.google.com/presentation/d/1se3ISYz42xg_0ogmCLykyuwbl2UVLxMj/edit?slide=id.g3e57c682035_0_38#slide=id.g3e57c682035_0_38]
+		- TEC post hoc decision/remarks on the deliverables / important for future applications for new 'modules'
+		- no general cap of applications but a piloting phase 
+		- a service can aim for ca. 20.000.- Euro worth of funding
+	- stakeholder survey & decision details
+		- switch to member institutions (of consortia) to assess support and need > declined
+		- technology acceptance model (TAM) - instead of consortia vote
+			- perceived usefulness
+			- job relevance
+			- facilitating  conditions
+			- behavioral intention 
+		- still want to measure support: suggestion of three options: strongly support, support, oppose
+		- information to sections, TEC, KV
+- 
+
