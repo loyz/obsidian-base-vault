@@ -1,6 +1,6 @@
 #zenodo #KnowledgeGraph
 #NFDIcoreOntology
-
+[[Knowledge4Base]]
 - Harvest from Zenodo and GoogleDocs
 - Processing
 - Storage and query
