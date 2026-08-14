@@ -1,0 +1,4536 @@
+{
+  "id": "1LyqruupoF3zwAfnGyfysLaPZPUYffZYq",
+  "name": "NFDI-Sektionskonzepte",
+  "type": "folder",
+  "owner": {
+    "displayName": "socialmedia",
+    "email": "socialmedia@nfdi.de"
+  },
+  "modifiedTime": "2023-12-07T20:10:55.682Z",
+  "sharedExternally": "unknown",
+  "depth": 0,
+  "children": [
+    {
+      "id": "1s_rE470Ba3GGOtjBuDttd4uwwVPRal9-",
+      "name": "05_Section_Industry-Engagement",
+      "type": "folder",
+      "owner": {
+        "displayName": "Angela.Schmalen",
+        "email": "Angela.Schmalen@nfdi.de"
+      },
+      "modifiedTime": "2026-06-24T16:19:53.682Z",
+      "sharedExternally": true,
+      "depth": 1,
+      "children": [
+        {
+          "id": "1Px9gg1u40AC0ydnVwrzHIK17aPQpCK5J",
+          "name": "00_Section-On-and-Offboarding",
+          "type": "folder",
+          "owner": {
+            "displayName": "Alois Wieshuber",
+            "email": "alois.georg.wieshuber@desy.de"
+          },
+          "modifiedTime": "2026-06-24T16:21:08.536Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "15wj_f65Dh4xo6jAkySQEKyx8-fUwlTfE",
+          "name": "01_Section-Meetings-Events",
+          "type": "folder",
+          "owner": {
+            "displayName": "rjutz",
+            "email": "rjutz@zbw-workspace.eu"
+          },
+          "modifiedTime": "2026-05-06T08:59:08.449Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": [
+            {
+              "id": "1RVxPXj5yO0F94X9WYNawjiEGOdNvs7Qp",
+              "name": "230512_Kickoff_IndEng_Frankfurt",
+              "type": "folder",
+              "owner": {
+                "displayName": "rjutz",
+                "email": "rjutz@zbw-workspace.eu"
+              },
+              "modifiedTime": "2023-05-25T09:18:52.984Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1MDYO-KOQMaSKsL310k9BnWjojYJAbiTN",
+                  "name": "Fotos",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "nfdi4cat",
+                    "email": "nfdi4cat@gmail.com"
+                  },
+                  "modifiedTime": "2023-05-25T09:19:01.386Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1ME2O7XJuqvFR-9NpfYZdB0sXrNPoLEhD",
+              "name": "231220_Onlinetreffen_IndEng",
+              "type": "folder",
+              "owner": {
+                "displayName": "rjutz",
+                "email": "rjutz@zbw-workspace.eu"
+              },
+              "modifiedTime": "2023-12-29T17:33:06.735Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1Ac5psy0XDIZ3514dEfc77AuqsCfuHBXE",
+              "name": "240614_Onlinetreffen_IE",
+              "type": "folder",
+              "owner": {
+                "displayName": "rjutz",
+                "email": "rjutz@zbw-workspace.eu"
+              },
+              "modifiedTime": "2024-06-14T08:08:28.079Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1Lz5EygA0jqBVUFE6tmAcyH-sm7yJLbDO",
+              "name": "241112_Onlinetreffen_IE",
+              "type": "folder",
+              "owner": {
+                "displayName": "rjutz",
+                "email": "rjutz@zbw-workspace.eu"
+              },
+              "modifiedTime": "2024-11-20T12:31:59.673Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1Fk9yVnkEiu52zYzRs5qO0ynkMXL_jxRu",
+              "name": "241218_Onlinetreffen_IE",
+              "type": "folder",
+              "owner": {
+                "displayName": "rjutz",
+                "email": "rjutz@zbw-workspace.eu"
+              },
+              "modifiedTime": "2024-12-20T11:18:51.777Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1cDHV3MuQycnw2kyhM00XV1mHmzxJ6geP",
+              "name": "251104_Onlinetreffen_IE",
+              "type": "folder",
+              "owner": {
+                "displayName": "Alois Wieshuber",
+                "email": "alois.georg.wieshuber@desy.de"
+              },
+              "modifiedTime": "2025-11-04T10:18:58.746Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1hdxypIWn49EzZVyQITmB4mPktaDTwMOw",
+              "name": "260616_Präsenztreffen_Industriebeirat_Sektionsmitglieder",
+              "type": "folder",
+              "owner": {
+                "displayName": "Alois Wieshuber",
+                "email": "alois.georg.wieshuber@desy.de"
+              },
+              "modifiedTime": "2026-06-16T08:42:26.322Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1SomX3PbUc01k5KT_3mdobWl0Dxr4bMmD",
+          "name": "02_Section-Outputs-Deliverables",
+          "type": "folder",
+          "owner": {
+            "displayName": "rjutz",
+            "email": "rjutz@zbw-workspace.eu"
+          },
+          "modifiedTime": "2026-05-06T09:01:27.359Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": [
+            {
+              "id": "1EfkWnUneU5UD2sVq1Y6z3a8Xouqw0hE2",
+              "name": "Leuchttürme_KollabWissIndustrie",
+              "type": "folder",
+              "owner": {
+                "displayName": "rjutz",
+                "email": "rjutz@zbw-workspace.eu"
+              },
+              "modifiedTime": "2025-11-07T10:34:31.199Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "14fhE2WuIVEMoyq7MFnmCTjgfPIAZgjdJ",
+              "name": "Whitepaper_Collaborations",
+              "type": "folder",
+              "owner": {
+                "displayName": "rjutz",
+                "email": "rjutz@zbw-workspace.eu"
+              },
+              "modifiedTime": "2023-09-19T10:40:56.159Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1b1auVD22KQC7hEcWHRsP0Q8hPjN4SMdJ",
+                  "name": "Archive",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "ahamann",
+                    "email": "ahamann@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2023-10-18T10:09:15.790Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1VaF9wilYkD0fc7iwtcrMkNiLTfUJRP4L",
+              "name": "Whitepaper_ResearchData",
+              "type": "folder",
+              "owner": {
+                "displayName": "rjutz",
+                "email": "rjutz@zbw-workspace.eu"
+              },
+              "modifiedTime": "2024-05-21T13:56:13.196Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1PYMG7v7t4knYPofBBAzgwnbf7-EEZ0Ni",
+                  "name": "Archive",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "rjutz",
+                    "email": "rjutz@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2024-12-16T08:23:58.185Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1s-Y0vKsE86OBHqZni7PhUEI_3ZM4Wtd8",
+              "name": "Whitepaper_Value(Research)Data",
+              "type": "folder",
+              "owner": {
+                "displayName": "rjutz",
+                "email": "rjutz@zbw-workspace.eu"
+              },
+              "modifiedTime": "2024-12-16T08:20:42.065Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1ZbDEmZP1Bs43SwEON5S9xU93r2ij7qPz",
+                  "name": "Archive",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "rjutz",
+                    "email": "rjutz@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2025-02-17T14:03:58.115Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1YvYGQe-Im3sxK-wdA3p-8rwYyTTijVBA",
+          "name": "03_Section-Resources",
+          "type": "folder",
+          "owner": {
+            "displayName": "rjutz",
+            "email": "rjutz@zbw-workspace.eu"
+          },
+          "modifiedTime": "2026-05-06T09:05:26.527Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": [
+            {
+              "id": "1K7t8hNNHVzxtO3iXWS-HDgAhvMAKVqUM",
+              "name": "Externe Vorstellungen",
+              "type": "folder",
+              "owner": {
+                "displayName": "ahamann",
+                "email": "ahamann@zbw-workspace.eu"
+              },
+              "modifiedTime": "2023-05-17T14:21:15.618Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "11tU3oRceIkCl_UIqOKq8UAYQrFL7Nk-n",
+              "name": "Industriebeirat",
+              "type": "folder",
+              "owner": {
+                "displayName": "rjutz",
+                "email": "rjutz@zbw-workspace.eu"
+              },
+              "modifiedTime": "2023-10-06T08:04:56.572Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1GIr5Xor3v6z3ztghHUO-TPY6PBtxjUYo",
+                  "name": "240119_Kickoff",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "rjutz",
+                    "email": "rjutz@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2025-11-07T09:58:42.591Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1ZNP5GIbbQ4w43Edwn1ZFJbim_jJxl8-5",
+                  "name": "250704_Onlinetreffen",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "rjutz",
+                    "email": "rjutz@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2025-11-07T10:00:00.413Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1IapaBRl_00g2wKD8hbsxQ0uU4Jg3amzb",
+                  "name": "Archive",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "ahamann",
+                    "email": "ahamann@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2023-08-05T09:26:55.254Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1RjMWZNI-dIrGCJvWBpLMSw-MubAlO9NQ",
+              "name": "Interne Präsentationen",
+              "type": "folder",
+              "owner": {
+                "displayName": "ahamann",
+                "email": "ahamann@zbw-workspace.eu"
+              },
+              "modifiedTime": "2023-10-19T11:40:06.653Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "18b2bVz0SiOQQ21HXeQG_3Jj_Cvw4ck2C",
+              "name": "Logos_section-industry",
+              "type": "folder",
+              "owner": {
+                "displayName": "socialmedia",
+                "email": "socialmedia@nfdi.de"
+              },
+              "modifiedTime": "2026-05-06T09:22:40.692Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1AsDReemci1Uw922Sizi0_eiEU5pMtFce",
+          "name": "04_Working-Groups",
+          "type": "folder",
+          "owner": {
+            "displayName": "Alois Wieshuber",
+            "email": "alois.georg.wieshuber@desy.de"
+          },
+          "modifiedTime": "2026-06-24T16:22:17.036Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": [
+            {
+              "id": "10JQcocAv-KMrZH6ftXm656tBOyyoEYBg",
+              "name": "02_WG-Wissenstransfer-und-Impact",
+              "type": "folder",
+              "owner": {
+                "displayName": "Alois Wieshuber",
+                "email": "alois.georg.wieshuber@desy.de"
+              },
+              "modifiedTime": "2026-06-24T15:52:52.400Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1DF2LLpuFIZsmWimedJ10MZr3SA8tqXHD",
+                  "name": "01_WG-Meetings-Events",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "rjutz",
+                    "email": "rjutz@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2026-05-06T09:26:09.809Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1iaaK-62yFX8kJ5O4UK_XQRfb9mAc0Fyq",
+                  "name": "02_WG-Outputs-Deliverables",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "rjutz",
+                    "email": "rjutz@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2026-05-06T09:28:44.690Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1gPnphWFbx760n5GZbz41VwvIU90USCIQ",
+                  "name": "03_WG-Resources",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "rjutz",
+                    "email": "rjutz@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2026-05-06T09:28:58.792Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1FBTnMy-ly5dg8F3TqdgnokBnpgEPtt4O",
+                  "name": "99_Archive",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "rjutz",
+                    "email": "rjutz@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2026-05-06T09:29:12.015Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1hYqVfJkUSE-G2nzvFaNbmv8yFS3-kHeh",
+          "name": "99_Archive",
+          "type": "folder",
+          "owner": {
+            "displayName": "rjutz",
+            "email": "rjutz@zbw-workspace.eu"
+          },
+          "modifiedTime": "2026-05-06T09:31:09.415Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": [
+            {
+              "id": "1y0ML8U_-foMiaw4V9PDvNVr8pK-69qXL",
+              "name": "Sektionseinrichtung",
+              "type": "folder",
+              "owner": {
+                "displayName": "Lukas.Jansen",
+                "email": "Lukas.Jansen@nfdi.de"
+              },
+              "modifiedTime": "2026-06-24T15:58:26.859Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1SDidXFvyPBGRK_-RQrdnCd_3xDapEMW3",
+      "name": "06_Section_International-Engagement",
+      "type": "folder",
+      "owner": {
+        "displayName": "socialmedia",
+        "email": "socialmedia@nfdi.de"
+      },
+      "modifiedTime": "2026-07-01T09:19:19.598Z",
+      "sharedExternally": true,
+      "depth": 1,
+      "children": [
+        {
+          "id": "18dOCQvzqRouOibsT5HYJLcOvGuvucRj2",
+          "name": "00_Section-On-and-Offboarding",
+          "type": "folder",
+          "owner": {
+            "displayName": "Alois Wieshuber",
+            "email": "alois.georg.wieshuber@desy.de"
+          },
+          "modifiedTime": "2026-06-03T09:20:05.439Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "15np5sNeZkb3jop9vLb5XWJsuNgv4eqka",
+          "name": "01_Section-Meetings-Events",
+          "type": "folder",
+          "owner": {
+            "displayName": "christiane.schneide",
+            "email": "christiane.schneide@desy.de"
+          },
+          "modifiedTime": "2026-06-05T09:39:23.458Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": [
+            {
+              "id": "1L4fHG7cXu5XvBuoPs_zfA_t-9zm-PNDi",
+              "name": "Constitutive Meeting 31/03/26",
+              "type": "folder",
+              "owner": {
+                "displayName": "socialmedia",
+                "email": "socialmedia@nfdi.de"
+              },
+              "modifiedTime": "2026-04-01T14:08:49.043Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "15Lcu0QIgguVo1TEqXn0sLWWWMrbYkjd1",
+              "name": "Info Event 26/02/26",
+              "type": "folder",
+              "owner": {
+                "displayName": "rebecca.kroehler",
+                "email": "rebecca.kroehler@nfdi.de"
+              },
+              "modifiedTime": "2026-02-23T14:43:52.170Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1csOl22rxbnEdxOx9IFBk3hHkxFZs_kYu",
+          "name": "02_Section-Output-Deliverables",
+          "type": "folder",
+          "owner": {
+            "displayName": "christiane.schneide",
+            "email": "christiane.schneide@desy.de"
+          },
+          "modifiedTime": "2026-06-05T11:46:58.233Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1fZbQqI-pLDNOQJlHmW-f0fVa27k3lK3C",
+          "name": "03_Section-Resources",
+          "type": "folder",
+          "owner": {
+            "displayName": "christiane.schneide",
+            "email": "christiane.schneide@desy.de"
+          },
+          "modifiedTime": "2026-06-05T11:47:16.973Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": [
+            {
+              "id": "1pj3slxzK65df238H6D3Mq1HVESG_gFb9",
+              "name": "Section concept writing process",
+              "type": "folder",
+              "owner": {
+                "displayName": "socialmedia",
+                "email": "socialmedia@nfdi.de"
+              },
+              "modifiedTime": "2026-04-01T14:05:02.008Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1HkLiKoq1p51frYv8RjmqNuizllicDrDC",
+          "name": "04_Working-Groups",
+          "type": "folder",
+          "owner": {
+            "displayName": "christiane.schneide",
+            "email": "christiane.schneide@desy.de"
+          },
+          "modifiedTime": "2026-06-05T11:45:11.110Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": [
+            {
+              "id": "1Llyiw12tx2fKzdoVEj_qceRiQquPtfj5",
+              "name": "01_WG-Landscaping-and-Outreach",
+              "type": "folder",
+              "owner": {
+                "displayName": "christiane.schneide",
+                "email": "christiane.schneide@desy.de"
+              },
+              "modifiedTime": "2026-07-01T11:00:11.032Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1PUwhq9NW_EnATPnSMgOpbx-pumZJUrZg",
+                  "name": "01_WG1-Meetings-Events",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "christiane.schneide",
+                    "email": "christiane.schneide@desy.de"
+                  },
+                  "modifiedTime": "2026-06-05T11:39:50.749Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1wPkO9i2CXFMfSbk5emCMvDm2aS7yD_uN",
+                  "name": "02_WG1-Output-Deliverables",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "christiane.schneide",
+                    "email": "christiane.schneide@desy.de"
+                  },
+                  "modifiedTime": "2026-06-05T11:47:56.359Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1UX3pZ7rRSbapt_v6uzusr_pSBxF_sajg",
+                  "name": "03_WG1-Resources",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "christiane.schneide",
+                    "email": "christiane.schneide@desy.de"
+                  },
+                  "modifiedTime": "2026-06-05T09:43:42.784Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "178cq2NHaBf69MtoG72DW2ULbJQDwcyA2",
+              "name": "02_WG-EOSC",
+              "type": "folder",
+              "owner": {
+                "displayName": "christiane.schneide",
+                "email": "christiane.schneide@desy.de"
+              },
+              "modifiedTime": "2026-06-05T11:47:28.685Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1qmrtS3DaP4xr9MD_hmHj2IIMWF44HXC2",
+                  "name": "01_WG2-Meetings-Events",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "christiane.schneide",
+                    "email": "christiane.schneide@desy.de"
+                  },
+                  "modifiedTime": "2026-06-05T11:49:30.705Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1Mt98xFxMKc0P-W_vQlt2lNbr9AupEgaI",
+                  "name": "02_WG2-Output-Deliverables",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "christiane.schneide",
+                    "email": "christiane.schneide@desy.de"
+                  },
+                  "modifiedTime": "2026-06-05T11:49:44.118Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "15Ci6piuUo3nVgLgyexYA-DQCJPgN6rNO",
+                  "name": "03_WG-Resources",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "christiane.schneide",
+                    "email": "christiane.schneide@desy.de"
+                  },
+                  "modifiedTime": "2026-06-05T11:49:54.663Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14AhOAT_gUhSy7ELONby-ea-378tzEavp",
+      "name": "Organisation",
+      "type": "folder",
+      "owner": {
+        "displayName": "sonja.schimmler",
+        "email": "sonja.schimmler@gmail.com"
+      },
+      "modifiedTime": "2023-02-03T15:09:30.644Z",
+      "sharedExternally": "unknown",
+      "depth": 1,
+      "children": [
+        {
+          "id": "1KDLKxHg23Ns2o68Bga0UWh9VLEkiYUsA",
+          "name": "OpenProject",
+          "type": "folder",
+          "owner": {
+            "displayName": "sonja.schimmler",
+            "email": "sonja.schimmler@gmail.com"
+          },
+          "modifiedTime": "2023-02-03T15:09:00.484Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "12xphbqLoScEvptg0wdCuUgMZmQSZYcbY",
+      "name": "Topic 1: Common Infrastructures",
+      "type": "folder",
+      "owner": {
+        "displayName": "sonja.schimmler",
+        "email": "sonja.schimmler@gmail.com"
+      },
+      "modifiedTime": "2024-02-28T10:36:40.907Z",
+      "sharedExternally": "unknown",
+      "depth": 1,
+      "children": [
+        {
+          "id": "1aR7atNwnWLZmK4cPcwZAvB-SipruJdD5",
+          "name": "Arbeitsgruppen",
+          "type": "folder",
+          "owner": {
+            "displayName": "michael.diepenbroek",
+            "email": "michael.diepenbroek@gmail.com"
+          },
+          "modifiedTime": "2026-01-20T09:30:59.352Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": [
+            {
+              "id": "1ltQScZkeMSNNPbxtEAR-6tMY6AGVx4N-",
+              "name": "DI (Data Integration)",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2023-02-03T14:27:55.112Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1jFESgSHmHm6Ap-0Cvn733xS4APXpYmff",
+                  "name": "NFDI Data Catalogue",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "michael.diepenbroek",
+                    "email": "michael.diepenbroek@gmail.com"
+                  },
+                  "modifiedTime": "2024-07-17T09:37:44.996Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1477FXIIK26JQ1AxllHkbmDWb2sg75ODd",
+              "name": "DMP",
+              "type": "folder",
+              "owner": {
+                "displayName": "dany.hausen.rwth",
+                "email": "dany.hausen.rwth@gmail.com"
+              },
+              "modifiedTime": "2026-03-17T07:36:04.671Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1kP534gcu1_ExjmRoMlCtliqXT_GUdrx9",
+                  "name": "JourFixe",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "dany.hausen.rwth",
+                    "email": "dany.hausen.rwth@gmail.com"
+                  },
+                  "modifiedTime": "2022-12-02T13:33:17.937Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1Tn2IvPXAfrDfZvd6_ZQTBJy_Idi_eMMl",
+                  "name": "UAG 4: DMP4NFDI",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "Juergen.Windeck",
+                    "email": "Juergen.Windeck@tu-darmstadt.de"
+                  },
+                  "modifiedTime": "2023-11-23T07:33:22.316Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1xbxpRPvKXu3GoKb0U5ssLWkdpJIX-vvQ",
+                  "name": "UAG7: Criteria for DMP Evaluation",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "Juergen.Windeck",
+                    "email": "Juergen.Windeck@tu-darmstadt.de"
+                  },
+                  "modifiedTime": "2024-10-14T13:33:13.077Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1Yhi1oQKcUD5flzRSGGFPsyPMYDJBCvWd",
+                  "name": "UAG8: DMPs for environmentally friendly RDM",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "Juergen.Windeck",
+                    "email": "Juergen.Windeck@tu-darmstadt.de"
+                  },
+                  "modifiedTime": "2025-06-03T07:05:10.805Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1byUzCGG3GIFpMnAQRTfdmAqcPDALBm-X",
+                  "name": "UAG9: DMPs and AI",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "Juergen.Windeck",
+                    "email": "Juergen.Windeck@tu-darmstadt.de"
+                  },
+                  "modifiedTime": "2026-07-02T07:38:51.907Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1Id7V27dEwmGm_76BwgkMvEVgd5jOh9QM",
+                  "name": "Z-Archiv",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "Juergen.Windeck",
+                    "email": "Juergen.Windeck@tu-darmstadt.de"
+                  },
+                  "modifiedTime": "2023-02-24T13:36:00.776Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1d6Tx8P4c4-fALaTiUwp2vRHh2K9YOJfm",
+              "name": "DS&AI",
+              "type": "folder",
+              "owner": {
+                "displayName": "arnim.bleier",
+                "email": "arnim.bleier@gmail.com"
+              },
+              "modifiedTime": "2022-08-31T12:00:29.350Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1cjauGmImaZPbR_UxQNgtXnj9-eCLFWsc",
+                  "name": "Meetings",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "zeyd.boukhers",
+                    "email": "zeyd.boukhers@fit.fraunhofer.de"
+                  },
+                  "modifiedTime": "2023-09-05T14:05:36.202Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1hkUvEeqqZcmkJidrLFLb56u74bl8PKLR",
+                  "name": "PADME-SSH_Use_Case",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "adamantios.koumpis",
+                    "email": "adamantios.koumpis@gmail.com"
+                  },
+                  "modifiedTime": "2022-11-09T18:19:32.260Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1Im8NkHBGnFM8qqt5BSS3YQ89WewP6L_5",
+              "name": "ELN",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2022-03-09T08:23:28.082Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": [
+                {
+                  "id": "12v2ovKfArzrvZAXmlxxlCWxEJTAnh2pJ",
+                  "name": "Concept of the WG",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "nicole.jung",
+                    "email": "nicole.jung@kit.edu"
+                  },
+                  "modifiedTime": "2022-12-12T20:01:30.875Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1Dq5K2szJsNwne6IFv-dNv4iMfN_E5miF",
+                  "name": "Info_materials",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "nicole.jung",
+                    "email": "nicole.jung@kit.edu"
+                  },
+                  "modifiedTime": "2022-12-12T20:01:56.709Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "19wzuNLqAUxD9gwbanfr7Ip6CtJQ32PYS",
+                  "name": "Old documents_materials",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "nicole.jung",
+                    "email": "nicole.jung@kit.edu"
+                  },
+                  "modifiedTime": "2022-12-12T20:02:42.420Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1-_VOKO4BBwqZytLxB1FmCXg1exD8aZGU",
+                  "name": "Proposals",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "nicole.jung",
+                    "email": "nicole.jung@kit.edu"
+                  },
+                  "modifiedTime": "2022-12-12T20:02:20.761Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1U4sjXzfk1G0TgKN-eQwWTK_xgjkLF6Ov",
+              "name": "IAM",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2024-03-05T10:08:13.362Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1eNI1BlPu7k-yWB5gwscMLwYjQxNqZ-H3",
+                  "name": "Accounting",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "michael.diepenbroek",
+                    "email": "michael.diepenbroek@gmail.com"
+                  },
+                  "modifiedTime": "2025-06-04T13:05:40.490Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1Nt4mXmXIwl5C4CRFfIBjJLLVhsfqXeV2",
+                  "name": "Archiv",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "marius.politze",
+                    "email": "marius.politze@gmail.com"
+                  },
+                  "modifiedTime": "2022-04-25T15:51:37.553Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1f5SXIiRh2EVUebzvtVHp4H6Lu_j55hJP",
+                  "name": "Base4NFDI-IAM-Initialization",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "marius.politze",
+                    "email": "marius.politze@gmail.com"
+                  },
+                  "modifiedTime": "2023-02-14T18:38:34.841Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1vW3z7mE5QjXdpPfX4pikQbbLvq5R7-hg",
+                  "name": "Incident_Response",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "pempe",
+                    "email": "pempe@dfn.de"
+                  },
+                  "modifiedTime": "2024-04-04T11:49:24.094Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1OTYtiQTYVNj7yaFYJegYuYTpJD6ihEP5",
+                  "name": "Protokolle WG IAM ",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "gottowik",
+                    "email": "gottowik@itc.rwth-aachen.de"
+                  },
+                  "modifiedTime": "2023-11-03T08:28:17.536Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1nT0YpZfOZ9YxQ-qgsA16zZw5KJ0TnTgV",
+                  "name": "Workshops",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "marius.politze",
+                    "email": "marius.politze@gmail.com"
+                  },
+                  "modifiedTime": "2024-01-18T16:18:23.816Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1xqtjp2rUw_fyYGXoo_kvyUyCovj6m3cD",
+                  "name": "WP1",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "pempe",
+                    "email": "pempe@dfn.de"
+                  },
+                  "modifiedTime": "2023-08-16T13:01:25.559Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1R0-7JXf0rs844kLELTn6HmttMZGfYAyr",
+                  "name": "WP2",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "mcvsmob",
+                    "email": "mcvsmob@gmail.com"
+                  },
+                  "modifiedTime": "2023-11-23T14:18:43.929Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1N8fZm_MXyeIPHCw6SdJkwwHGSv6hkT6T",
+              "name": "IDS (Infrastructure and Data Security)",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2023-05-07T06:57:58.152Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1oRnts3g2EMKlSWqgdh-n3tiNkHLNv_Uy",
+                  "name": "_Archive of the old WG-IDS",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "socialmedia",
+                    "email": "socialmedia@nfdi.de"
+                  },
+                  "modifiedTime": "2026-06-18T10:03:20.088Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1YRr_uG5KoSlDldRjbh1FpNNLbxtWU5rz",
+                  "name": "Charter",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "socialmedia",
+                    "email": "socialmedia@nfdi.de"
+                  },
+                  "modifiedTime": "2026-06-18T10:03:37.404Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1VggY5N87VlG8kkd9qAnaMn-YP-G9VlBi",
+                  "name": "Meetings",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "socialmedia",
+                    "email": "socialmedia@nfdi.de"
+                  },
+                  "modifiedTime": "2026-06-18T10:02:14.695Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1zDiwvrGgDsR7JrW29vuS3AA9rXRVeI5U",
+              "name": "LTA",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2022-02-15T15:46:54.081Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1gRM0TuwghTCcdQOwFbYmRvVlLBJQ1S8T",
+                  "name": "Basic-Service-Proposal-AG-LTA",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "s6kamark",
+                    "email": "s6kamark@gmail.com"
+                  },
+                  "modifiedTime": "2023-02-03T14:55:25.423Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1Mkq8WPGk--F-ppPxNs0Aq-DsGzVKU1Wt",
+                  "name": "Meetings-AG-LTA",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "s6kamark",
+                    "email": "s6kamark@gmail.com"
+                  },
+                  "modifiedTime": "2022-10-18T16:00:18.137Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1KV-WY4dvEK9kTWv7V0ZjKhjFuNm1ehV3",
+                  "name": "Presentations-AG-LTA",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "s6kamark",
+                    "email": "s6kamark@gmail.com"
+                  },
+                  "modifiedTime": "2023-01-05T07:45:19.084Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "14Uqo7_jhk6TnorfTTvxlT8hqFUgpmk9h",
+                  "name": "Vorträge, Einreichungen u. ä.",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "s6kamark",
+                    "email": "s6kamark@gmail.com"
+                  },
+                  "modifiedTime": "2024-05-16T08:38:56.989Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1x6sIsTEPNXdS8LUQviBADqvg6b4p5kPC",
+                  "name": "Working-Documents-UAGs-AG-LTA",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "s6kamark",
+                    "email": "s6kamark@gmail.com"
+                  },
+                  "modifiedTime": "2022-11-24T11:39:40.774Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1aWSCJwZZHnZgkhB9aeHUd18-gN9EZMku",
+              "name": "MC (Multi-Cloud)",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2026-05-06T16:03:43.674Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1SAXvAd4ppjAmbXKVT4KnM9UQ_7Cx0xrK",
+                  "name": "Abbildungen",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "michael.diepenbroek",
+                    "email": "michael.diepenbroek@gmail.com"
+                  },
+                  "modifiedTime": "2024-10-15T09:10:09.060Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1sejKrgzHlgeKmSgR9ABRv_5tSyT54TkC",
+                  "name": "BaseAntrag",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "frank.foerster",
+                    "email": "frank.foerster@computational.bio.uni-giessen.de"
+                  },
+                  "modifiedTime": "2024-07-31T11:40:21.816Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1CjQG6yNWNfkj4-OBfDdKVbR4mBlQA_ZD",
+                  "name": "Case statement",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "michael.diepenbroek",
+                    "email": "michael.diepenbroek@gmail.com"
+                  },
+                  "modifiedTime": "2024-10-15T09:03:54.038Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1u4O74Tj87ASTdaRdkDTlD2Fm7fzBsdMK",
+                  "name": "Präsentationen",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "michael.diepenbroek",
+                    "email": "michael.diepenbroek@gmail.com"
+                  },
+                  "modifiedTime": "2024-10-15T09:02:13.013Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1gUEkdHMmP48cG2OtK9_lFLuMTVCQc5Nn",
+                  "name": "Verschiedenes",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "michael.diepenbroek",
+                    "email": "michael.diepenbroek@gmail.com"
+                  },
+                  "modifiedTime": "2024-10-15T09:06:27.352Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1iK_N91cEOsR-RXvI2Q0g6Y8R4LF2K0uD",
+              "name": "OA (Overall Architecture)",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2026-02-17T10:03:27.029Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1hfGF7U-nVWj58mcDk3k-u11ar40o3ckE",
+                  "name": "1st Overall Architecture Workshop Göttingen",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "schwier",
+                    "email": "schwier@itc.rwth-aachen.de"
+                  },
+                  "modifiedTime": "2025-11-25T14:47:00.344Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1a3d4lN6o_iRRCaeFag1SftCVDXtSVJDs",
+                  "name": "2nd Overall Architecture Workshop Aachen",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "schwier",
+                    "email": "schwier@itc.rwth-aachen.de"
+                  },
+                  "modifiedTime": "2026-04-22T11:40:06.619Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1XYqJVzQH4auUIA_xkj9fM7W0YGObD_5F",
+                  "name": "_Archive",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "philipp.wieder",
+                    "email": "philipp.wieder@gwdg.de"
+                  },
+                  "modifiedTime": "2026-06-25T10:21:33.563Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "18USYt9pgaTCPEpyemGME2TLqFu62WsNM",
+                  "name": "Meeting Minutes",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "Alois Wieshuber",
+                    "email": "alois.georg.wieshuber@desy.de"
+                  },
+                  "modifiedTime": "2025-11-10T08:33:50.531Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1igwDF9DCXmyTqoej-Rt3qG7fY7owRzmX",
+                  "name": "NFDI - Storage Call 2025",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "marius.politze",
+                    "email": "marius.politze@gmail.com"
+                  },
+                  "modifiedTime": "2026-06-08T13:25:10.467Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1horOKmSZlJwv63OVp7xIqWNmIJfbkunP",
+                  "name": "Slides",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "philipp.wieder",
+                    "email": "philipp.wieder@gwdg.de"
+                  },
+                  "modifiedTime": "2026-06-24T07:31:18.862Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1NavyT2CiOWVenw-L4etHSeJDm75kQ9zW",
+              "name": "PID",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2026-01-19T14:00:35.462Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1OFbq6xhMUYouKrDjT3DzcOFmBfcE08OU",
+                  "name": "Archive",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "philipp.wieder",
+                    "email": "philipp.wieder@gwdg.de"
+                  },
+                  "modifiedTime": "2023-01-18T08:52:55.607Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1q-8Ga-kxaDIQFjIK4cCwrnnn7eGLVgDs",
+                  "name": "PID4NFDI Initialisation Phase",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "philipp.wieder",
+                    "email": "philipp.wieder@gwdg.de"
+                  },
+                  "modifiedTime": "2024-11-20T08:59:17.859Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1LqenLolvvRraScZmlvCVhLxA7PjC20Wf",
+                  "name": "Resources",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "philipp.wieder",
+                    "email": "philipp.wieder@gwdg.de"
+                  },
+                  "modifiedTime": "2023-01-18T08:54:12.543Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1KFe-Z40JhJgO3BVYPUQTvYpDRhv4P4hy",
+                  "name": "Survey 2023",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "shagemannwilholt",
+                    "email": "shagemannwilholt@gmail.com"
+                  },
+                  "modifiedTime": "2024-11-05T08:48:59.133Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1QglPWhNpvRkr6caGqfpU2lhYHPgwxlQa",
+                  "name": "Workshop_230127",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "shagemannwilholt",
+                    "email": "shagemannwilholt@gmail.com"
+                  },
+                  "modifiedTime": "2024-02-07T10:22:43.240Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1PP_vNb1tnOIuxhYjPidVwud5RNbboqIr",
+              "name": "Proposals",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2024-03-05T10:09:12.908Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1XfqMOxa9n1fX1gstQaXCMKGBbVPW46Lq",
+                  "name": "ARC",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "michael.diepenbroek",
+                    "email": "michael.diepenbroek@gmail.com"
+                  },
+                  "modifiedTime": "2023-10-19T10:10:33.952Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1TmGLOdi6A5U0Qlquq-iPy8vDgOhhMaeG",
+                  "name": "RKG",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "al.lorenz1993",
+                    "email": "al.lorenz1993@gmail.com"
+                  },
+                  "modifiedTime": "2022-03-11T08:26:30.327Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1b7j9m5NNT1EqXXYjRV9upL3P9PyBAi8K",
+              "name": "RSE",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2026-06-26T09:04:25.640Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1olLXIFRtwJYwySH_P6RhzojPEhh7m4hw",
+                  "name": "Base4NFDI-Zuarbeit-AG-RSE-2022-completed",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "sonja.schimmler",
+                    "email": "sonja.schimmler@gmail.com"
+                  },
+                  "modifiedTime": "2024-12-17T12:56:39.866Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1dCslnvlN5P573rNVkvok-QK80BxXVQPs",
+                  "name": "Concept-WG-RSE-2026",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "berndflemisch",
+                    "email": "berndflemisch@gmail.com"
+                  },
+                  "modifiedTime": "2026-05-20T07:21:42.243Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1WqiCs9cXSVaj1g3-t_NSTNB38a3qnMoF",
+                  "name": "CoRDI_2025_Aachen",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "thiery.florian",
+                    "email": "thiery.florian@googlemail.com"
+                  },
+                  "modifiedTime": "2025-06-30T11:33:29.606Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1nxYm275bT0kvd9y_cIGYWzjIz3fimfvJ",
+                  "name": "Konzept-AG-RSE-2022-completed",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "sonja.schimmler",
+                    "email": "sonja.schimmler@gmail.com"
+                  },
+                  "modifiedTime": "2024-12-17T12:56:20.129Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1Qba-OrKy-2E-cATeCZLkSQTdqsMTiPOO",
+                  "name": "Meetings-AG-RSE-ongoing",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "sonja.schimmler",
+                    "email": "sonja.schimmler@gmail.com"
+                  },
+                  "modifiedTime": "2024-12-17T12:56:02.559Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1o270a1RlKOhmi_8OQk6FM-cUpznxNcQP",
+                  "name": "Presentations",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "thiery.florian",
+                    "email": "thiery.florian@googlemail.com"
+                  },
+                  "modifiedTime": "2024-11-13T08:10:51.592Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1vEMVgZzNzbo2wFQMked3JaSy41WtDQFJ",
+                  "name": "Tasks-AG-RSE-completed",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "sonja.schimmler",
+                    "email": "sonja.schimmler@gmail.com"
+                  },
+                  "modifiedTime": "2024-12-17T12:51:15.963Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1CRAcWXoFx9UxuvPw5_-INGYVHZH1VsYo",
+                  "name": "Tasks-AG-RSE-ongoing",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "christin.henzen",
+                    "email": "christin.henzen@tu-dresden.de"
+                  },
+                  "modifiedTime": "2024-05-31T13:42:37.881Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "142v1vzd7Ef6RsIXiuWJL-xO9RrCdl32j",
+          "name": "Base4NFDI",
+          "type": "folder",
+          "owner": {
+            "displayName": "michael.diepenbroek",
+            "email": "michael.diepenbroek@gmail.com"
+          },
+          "modifiedTime": "2022-09-01T08:43:24.403Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": [
+            {
+              "id": "1QrMtTEFRPPzlfMIdMemVqrtXoHXMJIzY",
+              "name": "proposal",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2026-07-06T10:48:45.548Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1JLdItVa1oUStIa0VQZNLN2srHv1T6bk4",
+          "name": "Bedarfsanalyse",
+          "type": "folder",
+          "owner": {
+            "displayName": "michael.diepenbroek",
+            "email": "michael.diepenbroek@gmail.com"
+          },
+          "modifiedTime": "2021-10-27T10:38:18.143Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": [
+            {
+              "id": "1OnAZPRQHhqrY7SLAu8MXgHEYQ6fTe_uH",
+              "name": "Antworten Konsortien",
+              "type": "folder",
+              "owner": {
+                "displayName": "courtney_boda",
+                "email": "courtney_boda@gmx.de"
+              },
+              "modifiedTime": "2021-12-16T09:23:38.614Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1BkrAsJMtxQxZxApO7SIJgwsbyyGiWGLp",
+              "name": "Antworten Themenspezifisch",
+              "type": "folder",
+              "owner": {
+                "displayName": "courtney_boda",
+                "email": "courtney_boda@gmx.de"
+              },
+              "modifiedTime": "2021-12-16T09:23:25.126Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1MOYY3g21YFbqNjcU3IHBVeuJhzhQLroo",
+          "name": "Logos",
+          "type": "folder",
+          "owner": {
+            "displayName": "michael.diepenbroek",
+            "email": "michael.diepenbroek@gmail.com"
+          },
+          "modifiedTime": "2024-03-16T08:19:19.714Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1pS59G1wGAPUHrnGwU5JPdWd0QR7XbaH0",
+          "name": "Organisation",
+          "type": "folder",
+          "owner": {
+            "displayName": "sonja.schimmler",
+            "email": "sonja.schimmler@gmail.com"
+          },
+          "modifiedTime": "2023-02-03T14:27:20.078Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": [
+            {
+              "id": "1RjipvXNBqWDDPWZrgXlvhrWtznChkIjQ",
+              "name": "Berichte",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2022-06-29T10:35:05.950Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1WdxeeBNyHxr3ZMe8uLEfZDkoO5d6XJuk",
+              "name": "Konzept",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2021-10-21T09:37:15.264Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1e3qmzi1Gf3em3hbfBKXKVekcw7z5u_MR",
+          "name": "Präsentationen",
+          "type": "folder",
+          "owner": {
+            "displayName": "michael.diepenbroek",
+            "email": "michael.diepenbroek@gmail.com"
+          },
+          "modifiedTime": "2022-06-12T12:40:37.861Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": [
+            {
+              "id": "15MvvKTw7PVey5-NnEBdgFdlyAyRRB8V5",
+              "name": "2026 Section Roadshow",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2026-02-02T12:45:10.777Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1sMEujc9J6tvfZaTFHE7DDhA6NnRO3P67",
+          "name": "Sektionstreffen",
+          "type": "folder",
+          "owner": {
+            "displayName": "michael.diepenbroek",
+            "email": "michael.diepenbroek@gmail.com"
+          },
+          "modifiedTime": "2025-04-14T08:02:11.187Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": [
+            {
+              "id": "1SfghULJlm1RyGEA7nfr9zJBVpZiw7H16",
+              "name": "2021-07-07 Austausch zu RDC",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2021-10-21T09:39:54.098Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1Iy2w2JxW1IqNXeMVA-Ke_Sq4h9dNIY86",
+              "name": "2021-10-20 kickoff meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2021-10-20T14:20:41.263Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1G1lByL-ZPQAe9MYpq5fnTJmg2u3m9TVD",
+              "name": "2021-11-23 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2021-11-12T17:56:40.643Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1_bmS1l4hEZJupHWDvDtbNqRpEDonfL-T",
+              "name": "2022-02-23 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2022-02-18T11:40:27.860Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1MixjCaVIJzB7VSHMKoDIkPAoj2703rN_",
+              "name": "2022-03-29 first official meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2022-03-17T10:55:29.139Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1tShSURsGtuRq6RrCeYf3PdDp_V9Cc6ag",
+              "name": "2022-05-30 meeting of WG coordinators",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2022-06-06T10:10:41.990Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1V5-EuRbE-gIiAVRvAntAPN9G0kI7kPK6",
+              "name": "2022-06-15 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2022-06-07T15:08:14.149Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "16LU8OzsE4JTqaZF-i-Of4gkuZ2PotBLs",
+              "name": "2022-09-14 meeting of WG coordinators",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2022-08-01T13:56:16.207Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1L6FApg9ASGxgkzL63H3MdPePA5DTX8Yl",
+              "name": "2022-09-21 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2022-07-28T16:14:59.354Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1_t4b7dAjxrYSy5JGXg0qWuv7WoqcDkFl",
+              "name": "2022-11-21 meeting of WG coordinators",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2022-10-18T11:19:31.885Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1l7bo7TYwVPg9peqynPbkNK71TO7udpz6",
+              "name": "2022-11-23 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2022-10-18T11:19:05.230Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1-olmv2_1KnPm8W7EeOg1QOGlhvCHFqp_",
+              "name": "2023-01-16 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2022-12-13T12:59:42.092Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1lbK0mxozsq2zyCZh9gSuVGKscwugDCQ2",
+              "name": "2023-04-17 meeting of WG coordinators",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2023-02-03T14:14:29.069Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1Vtb5azQibmMPg1F3tP5XcrnX-BiEHIdf",
+              "name": "2023-04-19 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2023-02-03T14:18:04.321Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1PHYnRGQVH69H6FwhmYxfzF28cECy9ORW",
+              "name": "2023-06-26 meeting of WG coordinators",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2023-02-03T14:14:50.465Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1aNc6UQV-p2QGGa9vfNrFKpdY0kkpgOeu",
+              "name": "2023-06-28 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2023-02-03T15:07:37.573Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1k54fB2OLpdiI2mw3K3QFV-d03DyXcfov",
+              "name": "2023-11-27 meeting of WG coordinators",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2023-10-23T11:09:43.377Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1-tz5E-BtHg_vXOf8nTgkBlbJlYWrGfQE",
+              "name": "2023-11-29 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2023-10-23T11:09:17.746Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1oC2-HqKUsN64AAgVzETLbePQBMYiBTg6",
+              "name": "2024-01-29 meeting of wg coordinators",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2023-12-11T13:20:37.897Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1z-NzjpqV3ot1TLQOnduQ1ZDBMxU2V-SN",
+              "name": "2024-01-31 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2023-12-11T13:20:56.331Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1ysLb-vqUzqTafmZj88ZSLS7wiy9DUH2B",
+              "name": "2024-03-20 recap-session of wg coordinators",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2024-03-06T09:11:19.369Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1Gf44WU6BvcVo9Mu99eD24xVFoPqDbLud",
+              "name": "2024-04-17 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2024-03-04T11:20:49.400Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1pzbSAu9wwHyXhGUN2SZdvwyczExa-9Ea",
+              "name": "2024-07-03 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2024-06-12T15:48:57.155Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1UQOoP42l8ptLST7cmfbVgIE-mUp1l2FO",
+              "name": "2024-10-30 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2024-10-25T08:45:04.644Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1kx5kaYVVnzPxgRMQnl5fOFBJnzKdhfzV",
+              "name": "2024-12-11 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2024-12-09T07:22:11.837Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1kjbYk0yEzNGeXWgPlaEyVnst5s_CWEjz",
+              "name": "2025-04-14 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "michael.diepenbroek",
+                "email": "michael.diepenbroek@gmail.com"
+              },
+              "modifiedTime": "2025-03-11T08:53:09.271Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1cEcmGmupVZt8aZI3u9yqsCQ9kheYuSx4",
+              "name": "2025-06-04 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2025-05-06T06:43:11.401Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1XxCbj49G3vxgeKVy03_vUSt-Osp6TkjM",
+              "name": "2025-07-16 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2025-07-01T09:30:32.936Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1qIcOtgu04lw8aIlq1p1nt-FBGWYwyQiS",
+              "name": "2025-12-10 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2025-12-08T07:14:48.097Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1tHC10aR-TvAxMw7AL35DJCo7YsLtvCTp",
+              "name": "2026-01-12 preparation meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "Alois Wieshuber",
+                "email": "alois.georg.wieshuber@desy.de"
+              },
+              "modifiedTime": "2026-01-12T08:58:05.868Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1x82QOnXXulvAxjNGzJaLd35OUqX3Z_-Y",
+              "name": "2026-04-15 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2026-03-30T12:55:52.004Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1tkZnCmK9zHmB1cnDqaBezG3kw5TEYtm0",
+              "name": "2026-05-06 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2026-05-04T19:32:29.300Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1t9low6wNZl_ryFtpUPIN6T7vM-USCSYK",
+              "name": "2026-06-22 preparation meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "cordula.hege",
+                "email": "cordula.hege@desy.de"
+              },
+              "modifiedTime": "2026-06-29T07:42:07.397Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1fP7ZF3icUO0gQcW6lOPi1MoQUc95e7VT",
+              "name": "2026-06-24 regular meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.schimmler",
+                "email": "sonja.schimmler@gmail.com"
+              },
+              "modifiedTime": "2026-06-22T06:04:19.650Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1P8Yd5XwfdjNGjWMj1ZHjyYta0Yo-18C3",
+          "name": "Vernetzung",
+          "type": "folder",
+          "owner": {
+            "displayName": "michael.diepenbroek",
+            "email": "michael.diepenbroek@gmail.com"
+          },
+          "modifiedTime": "2023-02-03T14:25:51.504Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1aOx6S76Qn7xQNMvzOkcPqFbVTEjeGxV7",
+          "name": "Workshops: Sektionen - Basisdienste",
+          "type": "folder",
+          "owner": {
+            "displayName": "sonja.schimmler",
+            "email": "sonja.schimmler@gmail.com"
+          },
+          "modifiedTime": "2023-05-31T08:36:57.647Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "1f9Q_4KV0uT1AWy_FPeYGfmejYLo4OLfu",
+      "name": "Topic 2: Metadata, Terminologies, Provenance",
+      "type": "folder",
+      "owner": {
+        "displayName": "o.koepler",
+        "email": "o.koepler@gmail.com"
+      },
+      "modifiedTime": "2026-05-25T13:08:45.879Z",
+      "sharedExternally": "unknown",
+      "depth": 1,
+      "children": [
+        {
+          "id": "1abt5Fs8q5q4HiQMbQkcPgOxeY5QnClAN",
+          "name": "attic",
+          "type": "folder",
+          "owner": {
+            "displayName": "Torsten.Schrade",
+            "email": "Torsten.Schrade@adwmainz.de"
+          },
+          "modifiedTime": "2021-09-10T10:26:30.452Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1EYa9aaLVgVF66DtkJ-uQvJAvhje8ABWE",
+          "name": "Basic Services",
+          "type": "folder",
+          "owner": {
+            "displayName": "baum",
+            "email": "baum@zbmed.de"
+          },
+          "modifiedTime": "2023-07-10T11:06:31.826Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": [
+            {
+              "id": "1XxqwkJOueWRFAEP8z3E53SUvzpROklEa",
+              "name": "TS4NFDI",
+              "type": "folder",
+              "owner": {
+                "displayName": "baum",
+                "email": "baum@zbmed.de"
+              },
+              "modifiedTime": "2023-07-10T11:06:43.060Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1XybP0IqZwOrYDkPffGgNrEgIQ_YP_ZUW",
+          "name": "Dokument Historie - Einrichtung der Sektion",
+          "type": "folder",
+          "owner": {
+            "displayName": "o.koepler",
+            "email": "o.koepler@gmail.com"
+          },
+          "modifiedTime": "2022-09-01T06:13:03.606Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1XBy0adhzLtRXBe52zhnJAWu9vs384AhO",
+          "name": "Events",
+          "type": "folder",
+          "owner": {
+            "displayName": "o.koepler",
+            "email": "o.koepler@gmail.com"
+          },
+          "modifiedTime": "2022-09-06T12:44:22.475Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": [
+            {
+              "id": "1bcjMSLUnT9Af37MzIkhkeINlWHNaDUp4",
+              "name": "2022-12-12 1st BioHackathon Germany",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2022-09-06T12:44:59.752Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1ga6Chgz1xIoL5xGnEr2dV16WuPk24o6N",
+              "name": "2023-10-30 BioHackathon Europe",
+              "type": "folder",
+              "owner": {
+                "displayName": "sneumannoffice",
+                "email": "sneumannoffice@gmail.com"
+              },
+              "modifiedTime": "2023-06-07T12:59:50.743Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1glbIXzDxAdudbnMm7DeRNNlaeKvbJp05",
+              "name": "2023-12-11 2nd BioHackathon Germany",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2023-12-08T13:19:06.399Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1bjqv61NwtutFD3uYN13b5XVEJsYcNw_H",
+                  "name": "Bioschemas subgroup",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "o.koepler",
+                    "email": "o.koepler@gmail.com"
+                  },
+                  "modifiedTime": "2023-12-12T08:32:39.275Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1AzT95loXthpG3_qZ7dAJ06yiGmWdtxJ1",
+                  "name": "cross-projects-bioschemas-gettogether",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "sneumannoffice",
+                    "email": "sneumannoffice@gmail.com"
+                  },
+                  "modifiedTime": "2023-12-12T14:05:36.678Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1iCpAfDfC-ou7k1jzSheqJY3z2MFUoIpY",
+                  "name": "Server-Client Subgroup",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "o.koepler",
+                    "email": "o.koepler@gmail.com"
+                  },
+                  "modifiedTime": "2023-12-12T08:22:23.973Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1rsUtA5mgmbmXO9yJq7npp41L_G-d7KCj",
+              "name": "2025-12-10 NFDI Sections Onboarding Event",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2025-11-21T11:04:23.684Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1WALW85h-Y9HcC-EhM0UXOUQUBO_6rKK1",
+          "name": "International Networking",
+          "type": "folder",
+          "owner": {
+            "displayName": "o.koepler",
+            "email": "o.koepler@gmail.com"
+          },
+          "modifiedTime": "2023-01-04T18:34:44.445Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": [
+            {
+              "id": "1U7c5oltOlUGwh-NQWED4UAi7mhsvNgua",
+              "name": "EOSC Survey Semantic Interoperability",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2025-10-31T08:38:09.475Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1j7iqu9urBIMbQsgaVDn5rpl3FlvOScpO",
+          "name": "Meetings",
+          "type": "folder",
+          "owner": {
+            "displayName": "o.koepler",
+            "email": "o.koepler@gmail.com"
+          },
+          "modifiedTime": "2025-12-11T16:03:34.604Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": [
+            {
+              "id": "1YYAfSSp4_fQXB1k5G3HcvgzbOqTrP3bC",
+              "name": "2021-11-29_1st_workshop",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2022-05-14T14:25:09.779Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1nqv2Zwgyd06G3uEniriC4n6MLqYfasPo",
+              "name": "2022-04-06_official_kickoff_meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2022-05-14T14:23:44.073Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1jqoXkHrPqol4p5DW3IcnT9CAVCB5ZBGf",
+              "name": "2022-06-20_2nd_workshop",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2022-09-01T06:37:17.686Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "131Q2P_7BFuHh3bCU9bt7d9HdfZjqQyEJ",
+              "name": "2022-07-01_Konsortialversammlung",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2022-06-30T09:07:22.681Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1YFBvm0Hy5MdD7tNxniNBx4kA1CBui6Nd",
+              "name": "2022-09-27_3rd_Workshop",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2022-09-01T06:19:19.893Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1woZMGS6iDJm7QIpU64_dR3lkS-yRqpZI",
+              "name": "2022-10-19_NFDI_eV_Mitgliederversammlung",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2022-10-14T10:33:43.779Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1I3czksxAxtqj-K_GZMJ9oJHa892Sg8Hy",
+              "name": "2022-11-24 EOSC Tripartite",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2022-11-23T09:55:24.828Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1z3bNZJLFsl-V4gWT0Mn-l68AUUhAnWAx",
+              "name": "2023-01-10_Section_Meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "mathiak",
+                "email": "mathiak@gmail.com"
+              },
+              "modifiedTime": "2023-01-04T20:14:20.813Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1gTylmju8vclZIaLiiI2_0cfRlatOqKc9",
+              "name": "2023-04-18_Section_Meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2023-02-23T16:29:45.029Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1QRtQftpPYwS5PVJHKUH6P-kXRM6Ge_p4",
+              "name": "2023-06-27_Section Meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2023-02-23T16:29:45.029Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1FBFTIuj6nqvHH0vrZsA7AkVRCHnTadQp",
+              "name": "2023-10-17_Section_Meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2023-09-14T16:22:01.325Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1Fi4YmF2l_TtZeJ6Anqguf7oTqCTzO0bR",
+              "name": "2023-11-28_4th_Section_Workshop",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2023-10-23T13:25:52.918Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1WC66UrMDvbMQyFJGhOfsqGFcBtm3o0sp",
+              "name": "2024-01-23_Section_Meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2023-12-19T11:36:40.568Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1y0cn4Q5obgfceMLsaSUfauTKMIgXSwau",
+              "name": "2024-04-23_Section_Meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2024-03-15T07:07:33.097Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1WQ3jr22o8aAKPIkECRgWG6VH0H4eq_nT",
+              "name": "2024-07-16_Section_Meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2024-06-02T20:22:28.615Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1jXYSEvCcBK0awcQ_yxispXWPiCWb1ow8",
+              "name": "2024-12-17_Section_Meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2024-11-19T15:26:15.150Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1PwzbISZt3p-QnvPfJ5KXiw_9fl-VR0hO",
+              "name": "2025-04-29_Section_Meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2025-12-12T12:50:07.203Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1XOMrZB3KbbVcjC9CN4KbTsjNz08L9QF5",
+              "name": "2026-01-22_Section_Meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2025-12-11T07:32:33.335Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1cuGE-0XJSVF-8MLEYWFKIIP9vzbbfOCU",
+              "name": "2026-03-31_Section_Meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "Sabrina.Krohm",
+                "email": "Sabrina.Krohm@tib.eu"
+              },
+              "modifiedTime": "2025-12-11T16:07:04.272Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "16KhiYrdknCxuhcmfdvPHPyJrwwDssY0F",
+              "name": "2026-06-30_Section_Meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "Sabrina.Krohm",
+                "email": "Sabrina.Krohm@tib.eu"
+              },
+              "modifiedTime": "2025-12-12T12:49:58.227Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1P2zDFNw_5aJnor4fGjue32r6-34VmRaw",
+              "name": "2026-09-29_Section_Meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "Sabrina.Krohm",
+                "email": "Sabrina.Krohm@tib.eu"
+              },
+              "modifiedTime": "2025-12-12T12:50:32.108Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1PbhzD85MVYJr2GGpNJY0VYaXhKVuDKTl",
+              "name": "2026-12-08_Section_Meeting",
+              "type": "folder",
+              "owner": {
+                "displayName": "Sabrina.Krohm",
+                "email": "Sabrina.Krohm@tib.eu"
+              },
+              "modifiedTime": "2025-12-12T12:51:04.312Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1GQ-Rfm1MCr4cOfVgO50xRpMGsKBxTvMd",
+              "name": "AG Metadaten",
+              "type": "folder",
+              "owner": {
+                "displayName": "mathiak",
+                "email": "mathiak@gmail.com"
+              },
+              "modifiedTime": "2022-11-14T16:31:23.248Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1VHC8GlCEXxutoWDG54UuhmMkNiE8EhjV",
+              "name": "E-Science Tage 2023",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2022-10-28T06:34:12.513Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "18TcuSFMEgSm9NAq1vUTWS9psZ4HM0uPc",
+          "name": "Publications",
+          "type": "folder",
+          "owner": {
+            "displayName": "o.koepler",
+            "email": "o.koepler@gmail.com"
+          },
+          "modifiedTime": "2026-05-19T05:00:23.918Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1-y_3kgmk3JqSGl6NrjYNU-V0NF3HFxbm",
+          "name": "Reports",
+          "type": "folder",
+          "owner": {
+            "displayName": "o.koepler",
+            "email": "o.koepler@gmail.com"
+          },
+          "modifiedTime": "2025-12-11T16:04:51.370Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1vgNnG6i-cmO4cf4dsq0FARdUdAxIgsH6",
+          "name": "Task Force Metadata",
+          "type": "folder",
+          "owner": {
+            "displayName": "o.koepler",
+            "email": "o.koepler@gmail.com"
+          },
+          "modifiedTime": "2024-01-30T11:26:00.609Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": [
+            {
+              "id": "1vSDncTwsArwDJ-R66Z9o8Ry-Cjo2u3rA",
+              "name": "2025-01-14 1st Metadata Workshop",
+              "type": "folder",
+              "owner": {
+                "displayName": "cord.wiljes",
+                "email": "cord.wiljes@nfdi.de"
+              },
+              "modifiedTime": "2025-06-10T13:22:38.569Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1FhdNSb_lQGr93CiRoCTmtOdp_QV_EFqn",
+                  "name": "banner",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "cord.wiljes",
+                    "email": "cord.wiljes@nfdi.de"
+                  },
+                  "modifiedTime": "2024-11-14T13:57:26.567Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1faNaxyLb2R8HfkT_DoGwUkX9KLhZSiTl",
+                  "name": "Report",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "cord.wiljes",
+                    "email": "cord.wiljes@nfdi.de"
+                  },
+                  "modifiedTime": "2025-07-17T12:16:29.661Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1GYFy2nr6INvCrTuN0VASqm7k2iNXPVZD",
+                  "name": "Slides",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "cord.wiljes",
+                    "email": "cord.wiljes@nfdi.de"
+                  },
+                  "modifiedTime": "2025-01-02T15:13:19.356Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1FuyVDQRDEJ4Xl0iSK2XccHHIallYx6uq",
+              "name": "2025-05-12_HMC-2025",
+              "type": "folder",
+              "owner": {
+                "displayName": "socialmedia",
+                "email": "socialmedia@nfdi.de"
+              },
+              "modifiedTime": "2025-03-18T09:41:26.323Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1S6XHxxAjpGI7x1hNcj1PNF-638PCqAxP",
+              "name": "2025-06-25 2nd Metadata Workshop",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2025-06-10T12:55:15.341Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1c1gMA2Uf6Tin6PWqaNpSFiGwE56JffxA",
+                  "name": "_Archiv",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "socialmedia",
+                    "email": "socialmedia@nfdi.de"
+                  },
+                  "modifiedTime": "2025-05-22T14:07:10.312Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1FCA0yYr4ushlQwxeojyOsgCvFkEJnMMJ",
+                  "name": "Materials - non public",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "o.koepler",
+                    "email": "o.koepler@gmail.com"
+                  },
+                  "modifiedTime": "2025-06-19T06:30:15.356Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1mC6rbHDpI8oJsN6EsdUaQkTBOh9pMxnn",
+                  "name": "Photos",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "esoeding",
+                    "email": "esoeding@gmail.com"
+                  },
+                  "modifiedTime": "2025-06-27T17:51:38.874Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1T5A88jmA5yL5gDqspl9ahZ9cnBzcCEAe",
+                  "name": "Public",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "o.koepler",
+                    "email": "o.koepler@gmail.com"
+                  },
+                  "modifiedTime": "2025-06-16T10:44:46.811Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1943rILENkZS1n7RWBF5n09ofBttqMd7L",
+                  "name": "Report",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "cord.wiljes",
+                    "email": "cord.wiljes@nfdi.de"
+                  },
+                  "modifiedTime": "2025-07-17T12:18:46.621Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1Wc0ET3NyC_1yxGdJcAGQyZsdZ55v24DE",
+                  "name": "Slides",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "socialmedia",
+                    "email": "socialmedia@nfdi.de"
+                  },
+                  "modifiedTime": "2025-05-22T14:13:42.216Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1crVH4HRzLSbntYZiKZZwae8tEEHCDThM",
+                  "name": "Voting",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "cord.wiljes",
+                    "email": "cord.wiljes@nfdi.de"
+                  },
+                  "modifiedTime": "2026-03-27T07:34:42.134Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1WHE4g4eDbtzFTg1y8NbsEseIsWsc-5ka",
+              "name": "2026 3rd Metadata Worskop",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2026-06-09T09:33:46.028Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1YCV23arUzMh6u4mKmv5QuQIuTA53fPWe",
+                  "name": "Planning 3rd Metadata Workshop",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "o.koepler",
+                    "email": "o.koepler@gmail.com"
+                  },
+                  "modifiedTime": "2026-06-09T09:34:58.155Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1BDrcgkW0U7DtbP9LLfTPI-dipmR_T8HK",
+              "name": "2026-04-28-HMC-Heidelberg",
+              "type": "folder",
+              "owner": {
+                "displayName": "heike.fliegl",
+                "email": "heike.fliegl@gmail.com"
+              },
+              "modifiedTime": "2026-01-19T08:10:18.223Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "19lyFoS-sJ7y9zfUmGgCAphSPsOBANe3T",
+                  "name": "Nachnutzung_Text+Plenary",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "thorsten.trippel",
+                    "email": "thorsten.trippel@gmail.com"
+                  },
+                  "modifiedTime": "2026-04-16T13:20:41.069Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1mQXBR8SA_nO8svLZEN0SjoD_VUVGj-xl",
+              "name": "cordi2025",
+              "type": "folder",
+              "owner": {
+                "displayName": "thorsten.trippel",
+                "email": "thorsten.trippel@gmail.com"
+              },
+              "modifiedTime": "2025-04-03T13:31:25.083Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1TZWNBAEyjOw6ZiPzfM8Q5ZQpIhF92dSw",
+              "name": "NFDI Metadata Standard Recommendation",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2025-09-18T10:15:46.348Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "17yLBOwIivYdQpFPsrl_woyj78A4gj8w8",
+                  "name": "Metadata Element - ID",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "o.koepler",
+                    "email": "o.koepler@gmail.com"
+                  },
+                  "modifiedTime": "2025-09-18T10:17:04.993Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1AMQC6839sh7wCdLHf9sc-Axw-UTjGx7I",
+                  "name": "Metadata Element - License",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "o.koepler",
+                    "email": "o.koepler@gmail.com"
+                  },
+                  "modifiedTime": "2025-09-18T10:17:48.021Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1QR9sU6n4h2_KuqIMegzDdUKnoqWEb6iB",
+                  "name": "Metadata Element - Title",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "o.koepler",
+                    "email": "o.koepler@gmail.com"
+                  },
+                  "modifiedTime": "2025-09-18T10:17:32.179Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1zPIfAWGK6-bjEjSn0yrqzK2hz3Zu4LDm",
+              "name": "Re3Data",
+              "type": "folder",
+              "owner": {
+                "displayName": "aczerniak.unibi",
+                "email": "aczerniak.unibi@gmail.com"
+              },
+              "modifiedTime": "2024-02-01T15:58:54.756Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1ihWR3tm1dHQLzbbsJiMwQGiqKuHVLiBF",
+                  "name": "dump",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "aczerniak.unibi",
+                    "email": "aczerniak.unibi@gmail.com"
+                  },
+                  "modifiedTime": "2024-02-01T16:06:32.735Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1W_PkDM4qfSBHFuGav9WeZg-LcfSRzhe5",
+                  "name": "examples",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "aczerniak.unibi",
+                    "email": "aczerniak.unibi@gmail.com"
+                  },
+                  "modifiedTime": "2024-02-01T16:05:58.018Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1dX5I3bR3tZK61gQTyqBiG12bGv7lWsCn",
+                  "name": "NFDI-Standard-re3data-Proposal",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "socialmedia",
+                    "email": "socialmedia@nfdi.de"
+                  },
+                  "modifiedTime": "2026-06-12T14:27:31.257Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1u8Um95cJFyXBLCzraMDpfa5FXv-5Nuvc",
+              "name": "Survey",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2023-08-30T10:48:30.341Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1cASB6IyCVOEAxi9f_sZZdg5JTg9IP_-Y",
+                  "name": "PID4NFDI Umfrage zu Metadaten",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "o.koepler",
+                    "email": "o.koepler@gmail.com"
+                  },
+                  "modifiedTime": "2024-05-02T11:03:15.701Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1QfR5gYuPfiyGPqEYLiap21w9zAcQs3lW",
+          "name": "Workgroups",
+          "type": "folder",
+          "owner": {
+            "displayName": "o.koepler",
+            "email": "o.koepler@gmail.com"
+          },
+          "modifiedTime": "2023-05-31T08:36:22.857Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": [
+            {
+              "id": "1_W3V4-wiPFVY6-4yOLcPe5ZbiTY-A2Gs",
+              "name": "New Workgroup - HowTo",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2022-11-04T13:48:59.170Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1pjhiaPkyA2_zL4YDqXE192q5wRAM8W_t",
+              "name": "Workspaces Working Groups",
+              "type": "folder",
+              "owner": {
+                "displayName": "o.koepler",
+                "email": "o.koepler@gmail.com"
+              },
+              "modifiedTime": "2022-09-01T07:28:14.274Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1uF_kJdNDrijXT5QZSeWPOUNhDrKp-sII",
+                  "name": "WG Cookbooks, Guidance, Best Practices",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "Susanne.Arndt",
+                    "email": "Susanne.Arndt@tib.eu"
+                  },
+                  "modifiedTime": "2022-09-17T18:41:33.224Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1H8cV7FHetCIfMXnrTcZLovtt8rUoIV4Q",
+                  "name": "WG Knowledge Graphs",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "lozana.m",
+                    "email": "lozana.m@gmail.com"
+                  },
+                  "modifiedTime": "2023-07-05T12:58:20.235Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1hLgFgzp0cS_Pi8hpI9zOD7DcY3SUXRNH",
+                  "name": "WG Ontology Harmonization and Mapping",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "o.koepler",
+                    "email": "o.koepler@gmail.com"
+                  },
+                  "modifiedTime": "2025-12-10T11:33:56.388Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "17lly7dAxxx_u_5VauE_dOetZRz5-ggZt",
+                  "name": "WG Research Software Metadata",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "ferenz.uol",
+                    "email": "ferenz.uol@gmail.com"
+                  },
+                  "modifiedTime": "2025-12-10T10:25:38.496Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1w1gHe9k_J7bmZyCsgng0lfqeUcS6K1DR",
+                  "name": "WG Search and Harvesting",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "o.koepler",
+                    "email": "o.koepler@gmail.com"
+                  },
+                  "modifiedTime": "2025-10-06T16:35:42.945Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "163WiVYi_uVbjL_x9jj_vNWG4JbgrkxDE",
+                  "name": "WG Terminology Services",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "baum",
+                    "email": "baum@zbmed.de"
+                  },
+                  "modifiedTime": "2024-10-17T12:52:09.772Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "194y6PfzSajacLpCHw1zLPO0Ueg6HGQl3",
+      "name": "Topic 3: Training & Education",
+      "type": "folder",
+      "owner": {
+        "displayName": "sonja.herres-pawlis",
+        "email": "sonja.herres-pawlis@cup.uni-muenchen.de"
+      },
+      "modifiedTime": "2026-06-25T03:53:31.262Z",
+      "sharedExternally": "unknown",
+      "depth": 1,
+      "children": [
+        {
+          "id": "1wCLkymlI28t66ZheXPf_JIRX6K0pB5lT",
+          "name": "00_Archiv",
+          "type": "folder",
+          "owner": {
+            "displayName": "manuela.richter",
+            "email": "manuela.richter@tu-darmstadt.de"
+          },
+          "modifiedTime": "2021-11-09T06:51:55.614Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1iJNFSdDCvp9ge-JEI3IcHl573d2F4KlG",
+          "name": "Alte Sektionskonzepte",
+          "type": "folder",
+          "owner": {
+            "displayName": "jochenortmeyer",
+            "email": "jochenortmeyer@googlemail.com"
+          },
+          "modifiedTime": "2025-12-19T10:24:20.943Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1jJzJNpJ_EF0AfxQXcmH3S-RT0AIVNmUB",
+          "name": "AP 1 Zielgruppen- und Bedarfsanalyse",
+          "type": "folder",
+          "owner": {
+            "displayName": "sonja.herres-pawlis",
+            "email": "sonja.herres-pawlis@cup.uni-muenchen.de"
+          },
+          "modifiedTime": "2024-12-03T09:23:12.772Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1PNuXyLGPACLxl6tQVfYu6YGhGjoVnnjN",
+          "name": "AP 2 Bestandsaufnahme",
+          "type": "folder",
+          "owner": {
+            "displayName": "canan",
+            "email": "canan@hastik.de"
+          },
+          "modifiedTime": "2026-01-12T17:24:26.053Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": [
+            {
+              "id": "1HyIB8U0YSK6Hw49J6bOSyVvyovOY-NH8",
+              "name": "Präsentationsfolien",
+              "type": "folder",
+              "owner": {
+                "displayName": "jonathan.d.geiger",
+                "email": "jonathan.d.geiger@t-online.de"
+              },
+              "modifiedTime": "2025-10-20T09:59:23.953Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1m21HbM_FZ7YC8pn0wPzZvpXiq_JiI9E5",
+                  "name": "FDM-NDS_AP3 Kompetenzaufbau Data Literacy",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "loehde.b",
+                    "email": "loehde.b@gmail.com"
+                  },
+                  "modifiedTime": "2025-10-20T11:30:09.863Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1qXYj6IORMiQzZgolwz9g0P2JkF_suYOI",
+          "name": "AP 3 Modulares skalierbares Konzept",
+          "type": "folder",
+          "owner": {
+            "displayName": "helbigke",
+            "email": "helbigke@gmail.com"
+          },
+          "modifiedTime": "2023-10-22T07:43:36.018Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "17Lw6h49CXjPXJnfEgt1RpvytJEkHQ71b",
+          "name": "AP 4-6 Knowedge Base, Qualitätssicherung, Evaluation und Materialien",
+          "type": "folder",
+          "owner": {
+            "displayName": "canan",
+            "email": "canan@hastik.de"
+          },
+          "modifiedTime": "2023-12-11T19:29:29.700Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1Ho9f_vxayi9o3GIWuZudjEcvPA7daBXb",
+          "name": "AP 5 Certification infrastructure",
+          "type": "folder",
+          "owner": {
+            "displayName": "lindstaedt",
+            "email": "lindstaedt@zbmed.de"
+          },
+          "modifiedTime": "2022-05-16T13:35:50.593Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "14u7DUuA06wp92MQRZMY4-iyORziGmUq1",
+          "name": "AP 7 Outreach",
+          "type": "folder",
+          "owner": {
+            "displayName": "canan",
+            "email": "canan@hastik.de"
+          },
+          "modifiedTime": "2023-06-27T08:13:12.544Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1m3KHF5ib7-UwkOM0IXJs_7Qdl08O3b08",
+          "name": "AP 8 Error Culture",
+          "type": "folder",
+          "owner": {
+            "displayName": "maximilian.t.frank",
+            "email": "maximilian.t.frank@gmail.com"
+          },
+          "modifiedTime": "2025-02-13T11:28:14.436Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": [
+            {
+              "id": "1JIlHAymJuvBi4G8_K6aXcxmgDqvNZ6R0",
+              "name": "Manuskript",
+              "type": "folder",
+              "owner": {
+                "displayName": "maximilian.t.frank",
+                "email": "maximilian.t.frank@gmail.com"
+              },
+              "modifiedTime": "2025-01-13T13:54:15.339Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1vaaMjt95Z0khQavjhzc7PcUdfx703_44",
+              "name": "Vibe Umfrage",
+              "type": "folder",
+              "owner": {
+                "displayName": "bernhard.miller",
+                "email": "bernhard.miller@gesis.org"
+              },
+              "modifiedTime": "2025-09-25T06:41:30.051Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1rHuzEleJVEeQBleD6kabAnNF0fEkgJdX",
+              "name": "Workshops",
+              "type": "folder",
+              "owner": {
+                "displayName": "maximilian.t.frank",
+                "email": "maximilian.t.frank@gmail.com"
+              },
+              "modifiedTime": "2025-01-13T13:54:08.695Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1GDaicgUdwF_zqMEJkp98hYPzOxIGAraS",
+                  "name": "E-Science Tage 2025",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "maximilian.t.frank",
+                    "email": "maximilian.t.frank@gmail.com"
+                  },
+                  "modifiedTime": "2025-02-12T13:46:33.935Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1DXkk7AiIC6JTt9UaRqWxf-9FEkXgNHVe",
+                  "name": "Love Data Week 2025",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "maximilian.t.frank",
+                    "email": "maximilian.t.frank@gmail.com"
+                  },
+                  "modifiedTime": "2025-02-12T13:44:59.346Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1682v674hLGOlZM6M5mxizN-QPWAJ-pBV",
+                  "name": "Open Science Festival Mainz 2024",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "maximilian.t.frank",
+                    "email": "maximilian.t.frank@gmail.com"
+                  },
+                  "modifiedTime": "2025-02-12T13:46:22.238Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "11-Mj_VRYhQo8geH7A2uHesaVpGC_vE8U",
+                  "name": "PSE7 Bern 2025",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "maximilian.t.frank",
+                    "email": "maximilian.t.frank@gmail.com"
+                  },
+                  "modifiedTime": "2025-02-12T13:46:28.723Z",
+                  "sharedExternally": "unknown",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1R-nwCYYtq0kgwVd3c2lub4Nfq_mei2dE",
+          "name": "Basisdienste-WorkingGroups",
+          "type": "folder",
+          "owner": {
+            "displayName": "sonja.herres-pawlis",
+            "email": "sonja.herres-pawlis@cup.uni-muenchen.de"
+          },
+          "modifiedTime": "2022-02-21T08:42:34.229Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1h8eAsoDNlV99McXu3xgb9fNvdI8P9UIR",
+          "name": "DALIA Interchange Format",
+          "type": "folder",
+          "owner": {
+            "displayName": "jochenortmeyer",
+            "email": "jochenortmeyer@googlemail.com"
+          },
+          "modifiedTime": "2024-05-15T14:03:21.100Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1uEqcrh9GNaJSy47e87Jddq0ZX_LqmBWu",
+          "name": "EduTrainExpress",
+          "type": "folder",
+          "owner": {
+            "displayName": "canan",
+            "email": "canan@hastik.de"
+          },
+          "modifiedTime": "2023-03-30T19:13:22.997Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": [
+            {
+              "id": "1rLCUt7Xp90BceqcLj_OwOD_ZKU7Ri_GW",
+              "name": "Slides",
+              "type": "folder",
+              "owner": {
+                "displayName": "zutherj",
+                "email": "zutherj@gmail.com"
+              },
+              "modifiedTime": "2026-07-01T07:16:25.611Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1_ytAJdATrKd0trGY4npxfa5hZpn0-KLF",
+          "name": "Meetings",
+          "type": "folder",
+          "owner": {
+            "displayName": "manuela.richter",
+            "email": "manuela.richter@tu-darmstadt.de"
+          },
+          "modifiedTime": "2022-06-28T13:24:31.993Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": [
+            {
+              "id": "1dA6gKjLfiNKsBIqZDoRNFU7A9efMN0r6",
+              "name": "Sektionstreffen_2021-11-05",
+              "type": "folder",
+              "owner": {
+                "displayName": "jochenortmeyer",
+                "email": "jochenortmeyer@googlemail.com"
+              },
+              "modifiedTime": "2024-05-13T15:50:10.425Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "10DYf7tWpIHKa66lxk3v6dQ4DENJattaL",
+              "name": "Sektionstreffen_2022-07-14",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.herres-pawlis",
+                "email": "sonja.herres-pawlis@cup.uni-muenchen.de"
+              },
+              "modifiedTime": "2024-05-13T15:49:07.159Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "13ulc_lReoVqFwTr2Av2TkPg0DtFnUT_n",
+              "name": "Sektionstreffen_2022-11-29",
+              "type": "folder",
+              "owner": {
+                "displayName": "lehramt9",
+                "email": "lehramt9@gmail.com"
+              },
+              "modifiedTime": "2024-05-13T15:48:09.748Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1We1PM_6qp_cDfXMpnIusxeMrjaNwb8wQ",
+              "name": "Sektionstreffen_2023-06-14",
+              "type": "folder",
+              "owner": {
+                "displayName": "canan",
+                "email": "canan@hastik.de"
+              },
+              "modifiedTime": "2024-05-13T15:47:44.749Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1uKCAdmL5J5RsNLj8xZ3tc9fKwVpVtss-",
+              "name": "Sektionstreffen_2023-11-27",
+              "type": "folder",
+              "owner": {
+                "displayName": "canan",
+                "email": "canan@hastik.de"
+              },
+              "modifiedTime": "2024-05-13T15:47:57.827Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1Y_ur6qbHuUMbzIOcFISdzqbBPFzPU1js",
+              "name": "Sektionstreffen_2024-05-16",
+              "type": "folder",
+              "owner": {
+                "displayName": "jochenortmeyer",
+                "email": "jochenortmeyer@googlemail.com"
+              },
+              "modifiedTime": "2024-05-13T14:12:38.685Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1Vh1o1O9zNiUW4CaGtr4Fx0uupGlzrIC4",
+              "name": "Sektionstreffen_2024-12-05",
+              "type": "folder",
+              "owner": {
+                "displayName": "jochenortmeyer",
+                "email": "jochenortmeyer@googlemail.com"
+              },
+              "modifiedTime": "2024-12-03T09:37:33.867Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1JkswYBavQV4QwB3VYRXBv-QOb2PlXgle",
+              "name": "Sektionstreffen_2025-05-20",
+              "type": "folder",
+              "owner": {
+                "displayName": "jochenortmeyer",
+                "email": "jochenortmeyer@googlemail.com"
+              },
+              "modifiedTime": "2025-05-06T13:23:50.301Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1akr1PVxR5evNh9ExViiCNW1Oj_Egzeqh",
+              "name": "Sektionstreffen_2025-08-12",
+              "type": "folder",
+              "owner": {
+                "displayName": "jochenortmeyer",
+                "email": "jochenortmeyer@googlemail.com"
+              },
+              "modifiedTime": "2025-08-11T13:41:38.615Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1e8kcc7-_bHJkGcaq_biXE2zxtXSNOoWD",
+              "name": "Sektionstreffen_2025-12-02",
+              "type": "folder",
+              "owner": {
+                "displayName": "jochenortmeyer",
+                "email": "jochenortmeyer@googlemail.com"
+              },
+              "modifiedTime": "2025-11-24T07:45:27.075Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1uihMXOxg4QbY-KNDf-ljzYw-oVG9iZfG",
+              "name": "Sektionstreffen_2026-04-30",
+              "type": "folder",
+              "owner": {
+                "displayName": "jochenortmeyer",
+                "email": "jochenortmeyer@googlemail.com"
+              },
+              "modifiedTime": "2026-04-01T09:36:42.632Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1PCMWGfxnqniQIjV14BURbLFJRTIIXU75",
+              "name": "Strategietreffen 24-07-25",
+              "type": "folder",
+              "owner": {
+                "displayName": "sonja.herres-pawlis",
+                "email": "sonja.herres-pawlis@cup.uni-muenchen.de"
+              },
+              "modifiedTime": "2025-07-24T11:04:23.920Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "151StJJ3RKIHMlQ51WQvTe-86PWNZN6P5",
+          "name": "Reporting",
+          "type": "folder",
+          "owner": {
+            "displayName": "jochenortmeyer",
+            "email": "jochenortmeyer@googlemail.com"
+          },
+          "modifiedTime": "2025-05-07T13:17:19.971Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1g_-UOa5Lg9Ols-WahPDh2LoZ4fAMaI__",
+          "name": "TaskForce UserResearch",
+          "type": "folder",
+          "owner": {
+            "displayName": "canan",
+            "email": "canan@hastik.de"
+          },
+          "modifiedTime": "2023-03-31T14:28:51.172Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1RfzATuDQ7zBJOAv7hloYMagVlhhHmsTB",
+          "name": "TaskForceIP4",
+          "type": "folder",
+          "owner": {
+            "displayName": "zutherj",
+            "email": "zutherj@gmail.com"
+          },
+          "modifiedTime": "2026-07-06T13:44:52.887Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1Y0n4rN5E6irYVgKOr3mo2S3PpWOFPede",
+          "name": "WG RDM-Helpdesk Network",
+          "type": "folder",
+          "owner": {
+            "displayName": "socialmedia",
+            "email": "socialmedia@nfdi.de"
+          },
+          "modifiedTime": "2026-04-20T15:07:34.687Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": [
+            {
+              "id": "18LO3N-RV6sSScNHZEfKmd-7rU2J_HiyR",
+              "name": "DSgG-2025",
+              "type": "folder",
+              "owner": {
+                "displayName": "socialmedia",
+                "email": "socialmedia@nfdi.de"
+              },
+              "modifiedTime": "2025-05-12T06:19:42.179Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1IZu10eWit2w478OlTJfFxBmqz47MGohY",
+                  "name": "Folien",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "socialmedia",
+                    "email": "socialmedia@nfdi.de"
+                  },
+                  "modifiedTime": "2026-04-20T15:17:41.520Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1qYlJRNPmS3yDkKC5-utSSEwFfCXzs2HP",
+                  "name": "Poster",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "socialmedia",
+                    "email": "socialmedia@nfdi.de"
+                  },
+                  "modifiedTime": "2026-04-20T15:17:08.233Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1tOVW8UGnYi7-7UV9RHfawwhcvQLYdLLq",
+              "name": "Support-Reequests",
+              "type": "folder",
+              "owner": {
+                "displayName": "socialmedia",
+                "email": "socialmedia@nfdi.de"
+              },
+              "modifiedTime": "2024-07-10T12:15:07.020Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1_-SXfoEfRcaS3rUrsSh_3Wfp-e95rjAh",
+          "name": "White Paper der Sektion",
+          "type": "folder",
+          "owner": {
+            "displayName": "jochenortmeyer",
+            "email": "jochenortmeyer@googlemail.com"
+          },
+          "modifiedTime": "2024-05-15T15:14:51.081Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "1g8KFurQTybBycSImxDng2ZJIkm3J853H",
+      "name": "Topic 4 : Ethical & Legal Aspects",
+      "type": "folder",
+      "owner": {
+        "displayName": "Torsten.Schrade",
+        "email": "Torsten.Schrade@adwmainz.de"
+      },
+      "modifiedTime": "2025-03-28T09:30:25.974Z",
+      "sharedExternally": "unknown",
+      "depth": 1,
+      "children": [
+        {
+          "id": "16V5ZSTs1nJzIVAx1SxdYYyaLXVvvpoTR",
+          "name": "ELSA - Sektionstreffen",
+          "type": "folder",
+          "owner": {
+            "displayName": "alessandra.s.kuntz",
+            "email": "alessandra.s.kuntz@gmail.com"
+          },
+          "modifiedTime": "2024-03-11T12:22:36.281Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": [
+            {
+              "id": "1LtMjfs2rwg51lCCGKwOlptBZ-_chdYw3",
+              "name": "00 Protokolle",
+              "type": "folder",
+              "owner": {
+                "displayName": "alessandra.s.kuntz",
+                "email": "alessandra.s.kuntz@gmail.com"
+              },
+              "modifiedTime": "2022-09-27T08:08:52.380Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1kKHGA858fBk2cDf0195cJ5YywoiKuxDS",
+              "name": "Begleitmaterial/Präsentationen",
+              "type": "folder",
+              "owner": {
+                "displayName": "oliver.vettermann",
+                "email": "oliver.vettermann@partner.kit.edu"
+              },
+              "modifiedTime": "2024-03-11T15:45:16.327Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1xviram_aC_1iSinZEo6O3uDDi7AyGm2I",
+                  "name": "20240311 ELSA Meeting",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "oliver.vettermann",
+                    "email": "oliver.vettermann@partner.kit.edu"
+                  },
+                  "modifiedTime": "2024-03-11T15:45:40.789Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1aYHVXebLXu8tbTpzlhuCs7uYsbmUhDAI",
+                  "name": "20241112 ELSA Meeting",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "vstoilova",
+                    "email": "vstoilova@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2024-11-11T09:36:57.547Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1pmzdXU_b7LOBbbeXGgNHcN0PNB1_1gFB",
+                  "name": "20250320 ELSA Meeting",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "vstoilova",
+                    "email": "vstoilova@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2025-03-19T10:07:54.326Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1UzPsP1Dq_fu839Mvbg3yu6RywmrgFctk",
+                  "name": "20250702 ELSA Meeting",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "vstoilova",
+                    "email": "vstoilova@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2025-06-27T08:14:35.588Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1t4Sc_I_P5H20oZEI0bvjuZUGHQQLwfOX",
+                  "name": "20251009 ELSA Meeting",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "vstoilova",
+                    "email": "vstoilova@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2025-10-08T11:18:15.793Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1XyZFI16t3MBjEkwsw9vu3WiK0HG7y_XM",
+                  "name": "20251211 ELSA Meeting",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "vstoilova",
+                    "email": "vstoilova@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2025-12-02T14:26:40.566Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1QeHpZ_1Mb11rnho02Pm9k3xdzBKoCAWQ",
+                  "name": "20260401 ELSA Meeting",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "vstoilova",
+                    "email": "vstoilova@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2026-03-30T07:30:38.398Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1_KzEF32lXsJjOsTsolK2wIDA16LJe5Xh",
+                  "name": "20260702 ELSA Meeting",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "vstoilova",
+                    "email": "vstoilova@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2026-07-01T08:37:58.819Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10JH9mSBEKXhuPQop13YxM5yW3R3wxJZl",
+          "name": "ELSA - Workshop 2022",
+          "type": "folder",
+          "owner": {
+            "displayName": "alessandra.s.kuntz",
+            "email": "alessandra.s.kuntz@gmail.com"
+          },
+          "modifiedTime": "2024-03-11T12:22:22.254Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1r9-R1p9KlqlgmsXFSPgKfGCl4N747V1k",
+          "name": "Konferenz-Beiträge",
+          "type": "folder",
+          "owner": {
+            "displayName": "oliver.vettermann",
+            "email": "oliver.vettermann@partner.kit.edu"
+          },
+          "modifiedTime": "2023-04-20T09:43:08.245Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": [
+            {
+              "id": "14LPowNZxQ-SfKSfwTl_knNsSlljGHDfU",
+              "name": "Archive",
+              "type": "folder",
+              "owner": {
+                "displayName": "vstoilova",
+                "email": "vstoilova@zbw-workspace.eu"
+              },
+              "modifiedTime": "2025-04-11T14:22:23.897Z",
+              "sharedExternally": "unknown",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1U6d2jPsSrR39hKDFEOmtBIT4aTYsV6Z6",
+          "name": "Stellungnahmen",
+          "type": "folder",
+          "owner": {
+            "displayName": "vstoilova",
+            "email": "vstoilova@zbw-workspace.eu"
+          },
+          "modifiedTime": "2022-10-13T12:25:26.842Z",
+          "sharedExternally": "unknown",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "id": "1k4PcrdQI_ZhL2kw5g9I4rDggNVa-uP7m",
+          "name": "Working Group Data Protection",
+          "type": "folder",
+          "owner": {
+            "displayName": "vstoilova",
+            "email": "vstoilova@zbw-workspace.eu"
+          },
+          "modifiedTime": "2025-03-26T13:30:35.175Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": [
+            {
+              "id": "1fqsVDk9W1YlF18aHXUW4DkemWE1xhx3h",
+              "name": "00 Archiv",
+              "type": "folder",
+              "owner": {
+                "displayName": "vstoilova",
+                "email": "vstoilova@zbw-workspace.eu"
+              },
+              "modifiedTime": "2023-07-10T09:08:29.177Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1AXe7GWijzk9XDfFCzz09pbdj_aXkc3sP",
+                  "name": "AP 2 – Record Linkage",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "vstoilova",
+                    "email": "vstoilova@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2023-07-12T09:02:12.291Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1hEqCfo-U7Nn_NaJ2LXbNMOhG9V-exGNA",
+                  "name": "Arbeitspaket 1",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "vstoilova",
+                    "email": "vstoilova@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2023-07-10T08:47:53.087Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1kj3DNuHeGaFA7a363oJFZ2v5NSMIKFiI",
+                  "name": "Arbeitspaket 3",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "vstoilova",
+                    "email": "vstoilova@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2023-07-10T08:57:50.594Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1FAwH9kb9KaBvxpPSAAHKzHF6abX0ldn_",
+                  "name": "Arbeitspaket 4",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "vstoilova",
+                    "email": "vstoilova@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2023-07-10T08:57:57.792Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1HDd6fu4lOWtvFyR7XHtmvVV2wRLvYBGG",
+              "name": "00 Protokolle 2023-2024",
+              "type": "folder",
+              "owner": {
+                "displayName": "vstoilova",
+                "email": "vstoilova@zbw-workspace.eu"
+              },
+              "modifiedTime": "2025-01-29T12:34:43.092Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1SJXh7QvjZ2XnBj0x_oozi3DDPa-m_EG6",
+              "name": "01 Folien",
+              "type": "folder",
+              "owner": {
+                "displayName": "vstoilova",
+                "email": "vstoilova@zbw-workspace.eu"
+              },
+              "modifiedTime": "2023-04-14T12:12:05.271Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1OcsfzDv3eL3A4zi8DN3-eDplasizZPnf",
+              "name": "02 Factsheets - Final Version",
+              "type": "folder",
+              "owner": {
+                "displayName": "katharina.deschler",
+                "email": "katharina.deschler@dkfz-heidelberg.de"
+              },
+              "modifiedTime": "2025-02-27T10:03:07.336Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1K-gZh4Hog4Wl3ZW9iOyJNDnLk33g3UeZ",
+                  "name": "Archiv",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "vstoilova",
+                    "email": "vstoilova@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2025-04-29T06:54:55.877Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1QMBJjArH9WbmoirkEr7ecE1s7Pw-_UmL",
+                  "name": "Zenodo",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "vstoilova",
+                    "email": "vstoilova@zbw-workspace.eu"
+                  },
+                  "modifiedTime": "2025-07-15T08:04:44.699Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1sCyd8_Mw1VHwC-Dc9jsyjd8WjFNfm6Ep",
+              "name": "03 Cordi-Presentation",
+              "type": "folder",
+              "owner": {
+                "displayName": "katharina.deschler",
+                "email": "katharina.deschler@dkfz-heidelberg.de"
+              },
+              "modifiedTime": "2025-02-06T10:13:27.955Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1B1r5-SnRM6kVbdUpkBCe813azZ3_-dAk",
+                  "name": "Poster",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "katharina.deschler",
+                    "email": "katharina.deschler@dkfz-heidelberg.de"
+                  },
+                  "modifiedTime": "2025-06-10T08:08:14.936Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1ckm-VCcIgMkeUMCH-dCMGgw57cpanoZ1",
+              "name": "04 Factsheets - second set",
+              "type": "folder",
+              "owner": {
+                "displayName": "katharina.deschler",
+                "email": "katharina.deschler@dkfz-heidelberg.de"
+              },
+              "modifiedTime": "2025-06-17T09:17:44.329Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1uZYc38gOslcGfu8FZwoV5gHpPMxvwEJn",
+                  "name": "FactSheet-beyond-consent",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "patrick.brunner.r",
+                    "email": "patrick.brunner.r@gmail.com"
+                  },
+                  "modifiedTime": "2025-10-21T16:08:25.435Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1fqPt1Gt31L_zdPadYjGmVRxGksF-yrMg",
+          "name": "Working Group Ethics",
+          "type": "folder",
+          "owner": {
+            "displayName": "socialmedia",
+            "email": "socialmedia@nfdi.de"
+          },
+          "modifiedTime": "2025-03-03T10:26:11.059Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": [
+            {
+              "id": "1-z2GRCpAiZvoLCqZrhiQeyCEYIYtGnbL",
+              "name": "Kick-Off Workshop",
+              "type": "folder",
+              "owner": {
+                "displayName": "oliver.vettermann",
+                "email": "oliver.vettermann@partner.kit.edu"
+              },
+              "modifiedTime": "2024-03-18T10:30:10.252Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1SLzUrhAeLwTvicEm9cxEr4kXG6z-8jwD",
+              "name": "Meetings",
+              "type": "folder",
+              "owner": {
+                "displayName": "andi.bruns",
+                "email": "andi.bruns@gmail.com"
+              },
+              "modifiedTime": "2024-03-18T10:38:46.822Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1l0tKQNaQSpv8SpDj0xhO8kEJFae7IKbs",
+              "name": "Study Groups",
+              "type": "folder",
+              "owner": {
+                "displayName": "andi.bruns",
+                "email": "andi.bruns@gmail.com"
+              },
+              "modifiedTime": "2025-03-03T10:37:47.924Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "14KH6hcxeyOJU4e_wSanA0Wr5C2glfvNd",
+                  "name": "AI Study Group",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "christoforakimaria",
+                    "email": "christoforakimaria@gmail.com"
+                  },
+                  "modifiedTime": "2025-04-25T10:08:43.699Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1QapnGbONlwXRB2dxOYZc5_N_ZgU4n0em",
+                  "name": "CARE Principles Study Group",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "eisner",
+                    "email": "eisner@sub.uni-goettingen.de"
+                  },
+                  "modifiedTime": "2025-03-03T10:38:03.585Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "18xHwIhVVmASMcG6HmwBFl4BeqFwOgR3e",
+                  "name": "Dark Data Study Group",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "andi.bruns",
+                    "email": "andi.bruns@gmail.com"
+                  },
+                  "modifiedTime": "2025-03-03T10:38:13.525Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1fjyXRAsagDHA1RWL85BO2_QBWRWxL7oU",
+              "name": "Survey of Ethical Issues",
+              "type": "folder",
+              "owner": {
+                "displayName": "andi.bruns",
+                "email": "andi.bruns@gmail.com"
+              },
+              "modifiedTime": "2024-03-18T10:32:32.138Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1aFhRoB2S3GTlDDQXXh9oMzGOUAxV8m_F",
+          "name": "Working Group LARA",
+          "type": "folder",
+          "owner": {
+            "displayName": "vstoilova",
+            "email": "vstoilova@zbw-workspace.eu"
+          },
+          "modifiedTime": "2025-05-21T09:27:41.305Z",
+          "sharedExternally": true,
+          "depth": 2,
+          "children": [
+            {
+              "id": "1m6Qa-chfH_jnB1BCDP1EP0cBbVF8nYLc",
+              "name": "Abstracts and Proposals",
+              "type": "folder",
+              "owner": {
+                "displayName": "feser",
+                "email": "feser@ipk-gatersleben.de"
+              },
+              "modifiedTime": "2025-05-21T09:29:33.192Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1sMGDbBmBFJH55quA_GxoWRVrq7UbvJjw",
+              "name": "Material",
+              "type": "folder",
+              "owner": {
+                "displayName": "constantin.bress",
+                "email": "constantin.bress@fiz-karlsruhe.de"
+              },
+              "modifiedTime": "2025-09-29T07:35:05.366Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": [
+                {
+                  "id": "1IfXlglP3YaAUrceiQ2yXkG4Jntqnvaf6",
+                  "name": "DSA",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "constantin.bress",
+                    "email": "constantin.bress@fiz-karlsruhe.de"
+                  },
+                  "modifiedTime": "2025-10-06T14:14:49.257Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "id": "1VvLtsHOkeyZkNFW6tZOThJVNU00bRan4",
+                  "name": "OpenREL",
+                  "type": "folder",
+                  "owner": {
+                    "displayName": "constantin.bress",
+                    "email": "constantin.bress@fiz-karlsruhe.de"
+                  },
+                  "modifiedTime": "2025-09-29T07:35:18.121Z",
+                  "sharedExternally": true,
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "1VC9qzPn6o4nQ0N8uhd3BKSJC4UHnYElA",
+              "name": "Poster",
+              "type": "folder",
+              "owner": {
+                "displayName": "feser",
+                "email": "feser@ipk-gatersleben.de"
+              },
+              "modifiedTime": "2025-07-23T13:58:01.629Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            },
+            {
+              "id": "1JA8dNNeZOFHs2opBf0OGvqpK4jbmTqGZ",
+              "name": "Protocols",
+              "type": "folder",
+              "owner": {
+                "displayName": "Maria.Hansen",
+                "email": "Maria.Hansen@computational.bio.uni-giessen.de"
+              },
+              "modifiedTime": "2025-05-21T09:28:57.650Z",
+              "sharedExternally": true,
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

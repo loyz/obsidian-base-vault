@@ -1,29 +1,19 @@
 {
   "main": {
-    "id": "860353916f9a9af6",
+    "id": "870c0bf12b8a5b4d",
     "type": "split",
     "children": [
       {
-        "id": "c50652d7e66abc81",
+        "id": "3e7058cc8776ad30",
         "type": "tabs",
         "children": [
           {
-            "id": "d3a16daeedac9a22",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {},
-              "icon": "dot-network",
-              "title": "Mind Map of Knowledge4Base"
-            }
-          },
-          {
-            "id": "e6bded8b2d18fb9a",
+            "id": "876c9a0f656f9dfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NFDI/Base4NFDI/MetaZen/Workflow for adding additional metadata to Zenodo publications.md",
+                "file": "NFDI/Base4NFDI/2026-08-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,62 +28,39 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Workflow for adding additional metadata to Zenodo publications"
-            }
-          },
-          {
-            "id": "cd7bc9fdd22dbdc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NFDI/Base4NFDI/BaseServiceMatrix/Knowledge4Base.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Knowledge4Base"
+              "title": "2026-08-11"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d141e4d56c3ccc2e",
+    "id": "108ed597831364bd",
     "type": "split",
     "children": [
       {
-        "id": "317ba5ca145c2876",
+        "id": "a1ba7034f24dfaef",
         "type": "tabs",
         "children": [
           {
-            "id": "0fcd531ac6e0f165",
+            "id": "55ab2a035dc0c876",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Dateiexplorer"
             }
           },
           {
-            "id": "5f9011ae08d696b8",
+            "id": "d807379c9a9495f0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -110,36 +77,39 @@
             }
           },
           {
-            "id": "e086f59590c804a1",
+            "id": "8a7c4e65fc271218",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Lesezeichen"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 300
   },
   "right": {
-    "id": "cbd70870f6a2da29",
+    "id": "e90a39febbcd2a83",
     "type": "split",
     "children": [
       {
-        "id": "02b0c98840d0cc27",
+        "id": "bc8394b62e023d6f",
         "type": "tabs",
         "children": [
           {
-            "id": "b87c9d15fd5da685",
+            "id": "d8ae73b9e4f38589",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NFDI/Base4NFDI/BaseServiceMatrix/Knowledge4Base.md",
+                "file": "NFDI/Base4NFDI/2026-08-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Knowledge4Base"
+              "title": "Rückverweise"
             }
           },
           {
-            "id": "0d683f501bfedc33",
+            "id": "002e3392bd4c136b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NFDI/Base4NFDI/BaseServiceMatrix/Knowledge4Base.md",
+                "file": "NFDI/Base4NFDI/2026-08-11.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Knowledge4Base öffnen"
+              "title": "Ausgehende Links"
             }
           },
           {
-            "id": "2a466861c30a3b6d",
+            "id": "25937e5d8c0d6fd4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -182,28 +152,18 @@
             }
           },
           {
-            "id": "02a11de384a02c44",
+            "id": "3b0ef993878c5f1e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sections/Section Common Infrastructures/Section Commmon Infrastructures.md",
+                "file": "NFDI/Base4NFDI/2026-08-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section Commmon Infrastructures"
-            }
-          },
-          {
-            "id": "4962b47a1803701a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Gliederung"
             }
           }
         ]
@@ -215,69 +175,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false,
       "markdown-importer:Markdown Importprogramm öffnen": false,
-      "zk-prefixer:Neue eindeutige Notiz erstellen": false
+      "zk-prefixer:Neue eindeutige Notiz erstellen": false,
+      "bases:Neue Base erstellen": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd7bc9fdd22dbdc6",
+  "active": "55ab2a035dc0c876",
   "lastOpenFiles": [
-    "NFDI/Base4NFDI/MetaZen/Workflow for adding additional metadata to Zenodo publications.md",
-    "NFDI/Base4NFDI/BaseServiceMatrix/Knowledge4Base.md",
+    "NFDI/Base4NFDI/2026-05-20 Base All.md",
+    "NFDI/Base4NFDI/2026-08-11.md",
     "NFDI/Base4NFDI/Decision Memos  (how to).md",
     "NFDI/Base4NFDI/Konsortialumfrage.md",
     "NFDI/Base4NFDI/Services in Base.md",
-    "NFDI/Base4NFDI/TG Modular Approach (Rec 24-26)/TG Rec (24-26) Modular Approach Q&A Meeting.md",
-    "NFDI/Base4NFDI/BaseServiceMatrix/BaseServiceMatrix (BSM).md",
-    "NFDI/NFDI4Biodiversity/HistOrniGraph/2026-07-03.md",
-    "NFDI/FAIRagro/FAIRagro Community Summit.md",
-    "NFDI/GDA/AUdS Tagung Prag 2026.md",
-    "NFDI/Base4NFDI/TF Pre- Political-Engagement/One-Pager.md",
-    "NFDI/Base4NFDI/Ideas for Services/Social 4 Science.md",
-    "NFDI/Base4NFDI/Ideas for Services/Datentreuhandmodelle.md",
-    "NFDI/Base4NFDI/GSxBase/2026-05-12.md",
-    "NFDI/Base4NFDI/GSxBase/GoogleDocs Alternative.md",
-    "NFDI/Base4NFDI/Bielefeld Retreat/Bielefeld Day 1.md",
-    "NFDI/Base4NFDI/AI - LLMs - MachineLearning/Sources for White Paper on AI.md",
-    "NFDI/Base4NFDI/GoogleDrive Restructuring/GoogleDrive Restructuring for NFDI Sections.md",
-    "NFDI/NFDItalk/Aruna-vs-LDG-Mindmap.md",
-    "NFDI/NFDItalk/Unbenannt 1.md",
-    "NFDI/NFDItalk/2026-07-06.md",
-    "resources/14_404_Dieckmann_et_al..pdf",
-    "resources/LATTICE2024_411.pdf",
-    "Biodata interest group.md",
-    "NFDI/NFDItalk",
-    "NFDI/Blog article on digital sovereignity.md",
-    "NFDI/Future of NFDI.md",
-    "FIZ Bewerbung.md",
-    "NFDI/FAIRagro/FAIRagro UC6.md",
-    "resources/Hinweise aus Begutachtung und Beratung_Base4NFDI.pdf",
-    "resources/images/Supercloud.png",
-    "Unbenannt.canvas",
-    "Vault Base.base",
-    "resources/Elicit - 19th-Century Phenology and Climate Shifts - Report.pdf",
-    "resources/Bioschemas white paper.png",
-    "resources/BaseServiceMatrix.jpg",
-    "DESY/Administrational",
-    "NFDI/Base4NFDI/BaseServiceMatrix",
-    "NFDI/Base4NFDI/Bielefeld Retreat",
-    "NFDI/NFDI4Biodiversity/Topic Table",
-    "resources/slides/Bioschemas Presentation from NFDI4Biodiv/Bioschemas Community Call 2026-05-18 um 17.29.31.png",
-    "resources/slides/Bioschemas Presentation from NFDI4Biodiv/Bioschemas Community Call 2026-05-18 um 17.22.03.png",
-    "resources/slides/Bioschemas Presentation from NFDI4Biodiv/Bioschemas Community Call 2026-05-18 um 17.20.09.png",
-    "resources/slides/Bioschemas Presentation from NFDI4Biodiv/Bioschemas Community Call 2026-05-18 um 17.18.25.png",
-    "resources/slides/Bioschemas Presentation from NFDI4Biodiv/Bioschemas Community Call 2026-05-18 um 17.16.50.png",
-    "resources/slides/Bioschemas Presentation from NFDI4Biodiv/Bioschemas Community Call 2026-05-18 um 17.15.39.png",
-    "resources/slides/Bioschemas Presentation from NFDI4Biodiv/Bioschemas Community Call 2026-05-18 um 17.13.09.png",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "NFDI/Base4NFDI/Welcome to Base4NFDI.md"
   ]
 }
